@@ -10,9 +10,6 @@
 main:
   - title: "Research"
     url: /research/    
-
- # - title: "About me"
- #   url: /cv/
   
   - title: "Publications"
     url: /publications/
@@ -25,12 +22,15 @@ main:
 
   - title: "Evens"
     url: /talks/    
+
+  - title: "CV"
+    url: /cv-json/
         
  # - title: "Blog Posts"
  #   url: /year-archive/
+
+ # - title: "About me"
+ #   url: /cv/
     
-   - title: "CV"
-     url: /cv-json/
-    
-  # - title: "Guide"
-  #   url: /markdown/
+ # - title: "Guide"
+ #   url: /markdown/
