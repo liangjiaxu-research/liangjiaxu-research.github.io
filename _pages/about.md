@@ -19,3 +19,8 @@ My research focuses on carbon chemistry at high pressures.
 - Synthesis of molecular carbon structures
 - Swift heavy ion irradiation on carbon structures
 
+## Contact
+
+Email: j.liang@kristall.uni-frankfurt.de
+       jliang.research@gmail.com
+
