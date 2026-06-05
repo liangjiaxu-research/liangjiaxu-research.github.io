@@ -1,12 +1,18 @@
 ---
+
+layout: splash
 permalink: /
 title: "Jiaxu Liang's Research Website"
+
+header:
+overlay_image: /images/home-banner.jpg
+overlay_filter: 0.45
+caption: "Carbon Chemistry under Extreme Conditions"
+
 author_profile: false
 classes: wide
-redirect_from: 
-  - /about/
-  - /about.html
----
+-------------
+
 
 # Linag's Research
 
