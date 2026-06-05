@@ -1,7 +1,7 @@
 ---
 permalink: /
 title: "Jiaxu Liang's Research Website"
-author_profile: true
+author_profile: false
 redirect_from: 
   - /about/
   - /about.html
