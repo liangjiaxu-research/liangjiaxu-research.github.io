@@ -6,7 +6,7 @@ title: "Jiaxu Liang's Research Website"
 
 header:
 overlay_image: /images/home-banner.jpg
-overlay_filter: 0.45
+overlay_filter: 0.55
 caption: "Carbon Chemistry at Extreme Conditions"
 
 author_profile: false
