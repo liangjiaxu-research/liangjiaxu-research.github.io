@@ -23,14 +23,14 @@ main:
   - title: "Evens"
     url: /talks/    
 
-  - title: "CV"
-    url: /cv-json/
+  - title: "About me"
+    url: /cv/ 
+
+ # - title: "CV"
+ #   url: /cv-json/
         
  # - title: "Blog Posts"
  #   url: /year-archive/
 
- # - title: "About me"
- #   url: /cv/
-    
  # - title: "Guide"
  #   url: /markdown/
