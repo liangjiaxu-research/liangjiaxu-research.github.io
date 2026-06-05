@@ -2,6 +2,7 @@
 permalink: /
 title: "Jiaxu Liang's Research Website"
 author_profile: false
+classes: wide
 redirect_from: 
   - /about/
   - /about.html
