@@ -11,7 +11,8 @@ caption: "Carbon Chemistry under Extreme Conditions"
 
 author_profile: false
 classes: wide
--------------
+
+---
 
 
 # Linag's Research
