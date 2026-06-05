@@ -2,12 +2,12 @@
 
 layout: splash
 permalink: /
-title: "Jiaxu Liang's Research Website"
+title: "Carbon Chemistry at Extreme Conditions"
 
 header:
   overlay_image: images/home-banner.jpg
   overlay_filter: 0.55
-  caption: "Carbon Chemistry at Extreme Conditions"
+  caption: "DAC in-situ Raman system"
 
 author_profile: false
 classes: wide
