@@ -41,6 +41,8 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-.page__footer {
-    display: none !important;
+.page__hero--overlay {
+    min-height: 50vh;
+    display: flex;
+    align-items: center;
 }
