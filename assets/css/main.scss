@@ -41,7 +41,11 @@
     "vendor/font-awesome/solid",
     "vendor/font-awesome/brands"
 ;
-/* Hide entire footer */
-.page__footer {
-    display: none;
+.page__footer-follow {
+    display: none !important;
+}
+
+body {
+    border: 20px solid red !important;
+}
 }
