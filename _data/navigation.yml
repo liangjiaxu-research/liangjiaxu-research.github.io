@@ -10,6 +10,9 @@
 main:
   - title: "Research"
     url: /research/    
+
+  - title: "About me"
+    url: /cv/ 
   
   - title: "Publications"
     url: /publications/
@@ -22,9 +25,6 @@ main:
 
   - title: "Evens"
     url: /talks/    
-
-  - title: "About me"
-    url: /cv/ 
 
  # - title: "CV"
  #   url: /cv-json/
