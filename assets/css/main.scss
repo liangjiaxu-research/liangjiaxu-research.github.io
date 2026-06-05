@@ -48,12 +48,11 @@
     align-items: center;
 }
 
-.greedy-nav {
-    max-width: 1400px;
-    margin: 0 auto;
+.masthead__menu {
+    display: flex !important;
+    justify-content: center !important;
 }
 
-.greedy-nav .visible-links {
-    display: flex;
-    justify-content: center;
+.greedy-nav {
+    width: auto !important;
 }
