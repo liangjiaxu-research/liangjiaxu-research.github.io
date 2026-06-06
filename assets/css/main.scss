@@ -64,13 +64,20 @@
 }
 
 .featured-card {
-    flex: 0 0 400px;
+    flex: 0 0 350px;
     border: 1px solid #ddd;
     border-radius: 10px;
     overflow: hidden;
     background: white;
-    transition: transform 0.2s ease，
+    transition: transform 0.2s ease,
                 box-shadow 0.3s ease;
+}
+
+.featured-card img {
+    width: 100%;
+    height: 300px;
+    object-fit: cover;
+    display: block;
 }
 
 .carousel-btn {
