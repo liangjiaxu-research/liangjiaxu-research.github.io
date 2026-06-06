@@ -57,12 +57,9 @@
 .featured-grid {
     display: flex;
     gap: 2rem;
-
-    overflow-x: hidden;
-
-    scroll-behavior: smooth;
-
+    overflow: hidden;
     flex: 1;
+    scroll-behavior: auto;    
 }
 
 .featured-card {
