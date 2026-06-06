@@ -61,7 +61,7 @@ Key questions include:
 
 ## Research Themes
 
-{% include feature_row %}
+![test](/images/bio-photo-2.jpg)
 
 ---
 
