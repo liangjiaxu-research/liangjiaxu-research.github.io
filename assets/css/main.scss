@@ -67,7 +67,6 @@
 
 .featured-card {
     flex: 0 0 350px;
-
     border: 1px solid #ddd;
     border-radius: 10px;
     overflow: hidden;
@@ -86,4 +85,17 @@
     cursor: pointer;
 
     font-size: 24px;
+}
+
+.card-link {
+    text-decoration: none;
+    color: inherit;
+}
+
+.featured-card {
+    transition: transform 0.2s ease;
+}
+
+.featured-card:hover {
+    transform: translateY(-5px);
 }
