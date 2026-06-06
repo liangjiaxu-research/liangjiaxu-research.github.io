@@ -12,6 +12,7 @@ header:
 
 feature_row:
 
+  {% comment %}
   - image_path: bio-photo-2.jpg
     alt: "Landscape Evolution"
     title: "Landscape Evolution"
@@ -19,6 +20,7 @@ feature_row:
     #url: "/landscape-evolution/"
     #btn_label: "Learn More"
     #btn_class: "btn--primary"
+   {% endcomment %}
     
   - image_path: bio-photo-2.jpg
     alt: "Cosmogenic Nuclides"
