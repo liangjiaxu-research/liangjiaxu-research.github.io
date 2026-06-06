@@ -6,13 +6,13 @@ permalink: /research/
 author_profile: false
 
 header:
-  overlay_image: /images/research/banner.jpg
+  overlay_image: /images/banner.jpg
   overlay_filter: 0.4
   caption: "Fieldwork in mountainous landscapes"
 
 feature_row:
 
-  -image_path: /images/research/landscape.jpg
+  -image_path: /images/bio-photo-2.jpg
   alt: "Landscape Evolution"
   title: "Landscape Evolution"
   excerpt: "Quantifying how landscapes respond to tectonic and climatic forcing."
@@ -20,7 +20,7 @@ feature_row:
   btn_label: "Learn More"
   btn_class: "btn--primary"
 
-  -image_path: /images/research/cosmogenic.jpg
+  -image_path: /images/bio-photo-2.jpg
   alt: "Cosmogenic Nuclides"
   title: "Cosmogenic Nuclides"
   excerpt: "Applications of cosmogenic radionuclides in Earth surface processes."
