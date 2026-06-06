@@ -23,25 +23,33 @@ My research focuses on Carbon Chemistry at Extreme Conditions.
 
 <h2>Featured Articles</h2>
 
-<div class="featured-grid">
+<div class="carousel-wrapper">
 
-  <div class="featured-card">
-    <img src="/images/AngewChemIntEd2025.jpg">
-    <h3>Angew. Chem. Int. Ed. 2025, 64, e202500923</h3>
-    <p>Description...</p>
+  <button class="carousel-btn prev">&#10094;</button>
+
+  <div class="featured-grid" id="featuredGrid">
+
+    <div class="featured-card">
+      <img src="/images/AngewChemIntEd2025.jpg">
+      <h3>Angew. Chem. Int. Ed. 2025</h3>
+      <p>Description...</p>
+    </div>
+
+    <div class="featured-card">
+      <img src="/images/PhysRevResearch2026.jpg">
+      <h3>Phys. Rev. Research 2026</h3>
+      <p>Description...</p>
+    </div>
+
+    <div class="featured-card">
+      <img src="/images/article3.jpg">
+      <h3>Heavy Ion Irradiation</h3>
+      <p>Description...</p>
+    </div>
+
   </div>
 
-  <div class="featured-card">
-    <img src="/images/PhysRevResearch2026.jpg">
-    <h3>Phys. Rev. Research. 2026, 8, 023054</h3>
-    <p>Description...</p>
-  </div>
-
-  <div class="featured-card">
-    <img src="/images/article3.jpg">
-    <h3>Heavy Ion Irradiation</h3>
-    <p>Description...</p>
-  </div>
+  <button class="carousel-btn next">&#10095;</button>
 
 </div>
 
