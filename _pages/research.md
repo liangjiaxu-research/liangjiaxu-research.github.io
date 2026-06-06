@@ -57,8 +57,6 @@ Key questions include:
 * What controls river incision and terrace formation?
 * How are soils produced and transported across hillslopes?
 
-{% include header %}
-
 ---
 
 ## Research Themes
