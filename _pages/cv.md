@@ -25,7 +25,7 @@ Work and research experience
 
 ## Contact
 
-Email: j.liang@kristall.uni-frankfurt.de；jliang.research@gmail.com
+Email: j.liang@kristall.uni-frankfurt.de or jliang.research@gmail.com
 
 {% comment %}  
 
