@@ -1,52 +1,20 @@
 const grid = document.getElementById("featuredGrid");
 
-const cards = grid.querySelectorAll(".featured-card");
+const nextBtn = document.querySelector(".next");
+const prevBtn = document.querySelector(".prev");
 
-const firstClone = cards[0].cloneNode(true);
-const lastClone = cards[cards.length - 1].cloneNode(true);
+nextBtn.addEventListener("click", () => {
 
-grid.appendChild(firstClone);
-grid.insertBefore(lastClone, cards[0]);
+    const firstCard = grid.firstElementChild;
 
-const gap = 32;
-const cardWidth = cards[0].offsetWidth + gap;
-
-grid.scrollLeft = cardWidth;
-
-document.querySelector(".next").addEventListener("click", () => {
-
-    grid.scrollBy({
-        left: cardWidth,
-        behavior: "smooth"
-    });
+    grid.appendChild(firstCard);
 
 });
 
-document.querySelector(".prev").addEventListener("click", () => {
+prevBtn.addEventListener("click", () => {
 
-    grid.scrollBy({
-        left: -cardWidth,
-        behavior: "smooth"
-    });
+    const lastCard = grid.lastElementChild;
 
-});
-
-grid.addEventListener("scrollend", () => {
-
-    const maxScroll =
-        grid.scrollWidth - grid.clientWidth;
-
-    // 到最后一个复制的第一张
-    if (grid.scrollLeft >= maxScroll - cardWidth) {
-
-        grid.scrollLeft = cardWidth;
-    }
-
-    // 到最前面复制的最后一张
-    if (grid.scrollLeft <= 0) {
-
-        grid.scrollLeft =
-            maxScroll - cardWidth * 2;
-    }
+    grid.insertBefore(lastCard, grid.firstElementChild);
 
 });
