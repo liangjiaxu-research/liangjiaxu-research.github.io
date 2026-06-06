@@ -17,7 +17,7 @@ classes: wide
 
 # Jiaxu Liang
 
-Welcome to my Research Website from [AG Winkler](https://www.geo.uni-frankfurt.de/59244748/AG_Winkler#a_29c0515d-6b7f6354) at Goethe University Frankfurt. <a href="{{site.author.googlescholar}}" target="_blank">my Google Scholar profile</a>
+Welcome to my Research Website from [AG Winkler](https://www.geo.uni-frankfurt.de/59244748/AG_Winkler#a_29c0515d-6b7f6354) at Goethe University Frankfurt. <a href="{{https://www.geo.uni-frankfurt.de/59244748/AG_Winkler#a_29c0515d-6b7f6354}}" target="_blank">AG Winkler</a>
 
 My research focuses on Carbon Chemistry at Extreme Conditions.
 
