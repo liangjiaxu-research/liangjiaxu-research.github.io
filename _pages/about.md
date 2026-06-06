@@ -43,7 +43,13 @@ My research focuses on Carbon Chemistry at Extreme Conditions.
 
     <div class="featured-card">
       <img src="/images/article3.jpg">
-      <h3>Heavy Ion Irradiation</h3>
+      <h3>More</h3>
+      <p>Description...</p>
+    </div>
+
+     <div class="featured-card">
+      <img src="/images/article3.jpg">
+      <h3>More</h3>
       <p>Description...</p>
     </div>
 
