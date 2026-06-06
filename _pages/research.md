@@ -60,19 +60,3 @@ Key questions include:
 
 ---
 
-{% endcomment %}
-
-## Fieldwork Gallery
-
-<div style="display:flex;gap:10px;flex-wrap:wrap;justify-content:center;">
-
-<img src="/images/research/field1.jpg" width="30%">
-<img src="/images/research/field2.jpg" width="30%">
-<img src="/images/research/field3.jpg" width="30%">
-
-</div>
-
-*Examples of field campaigns and study sites.*
-
----
-
