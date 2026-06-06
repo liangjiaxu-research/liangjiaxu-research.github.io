@@ -16,9 +16,9 @@ feature_row:
     alt: "Landscape Evolution"
     title: "Landscape Evolution"
     excerpt: "Quantifying how landscapes respond to tectonic and climatic forcing."
-    url: "/landscape-evolution/"
+    #url: "/landscape-evolution/"
     btn_label: "Learn More"
-    btn_class: "btn--primary"
+    btn_class: "btn--primary"#
     
   - image_path: bio-photo-2.jpg
     alt: "Cosmogenic Nuclides"
