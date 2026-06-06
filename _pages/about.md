@@ -21,6 +21,30 @@ Welcome to my Research Website from [AG Winkler](https://www.geo.uni-frankfurt.d
 
 My research focuses on Carbon Chemistry at Extreme Conditions.
 
+<h2>Featured Articles</h2>
+
+<div class="featured-grid">
+
+  <div class="featured-card">
+    <img src="/images/article1.jpg">
+    <h3>Functionalized Diamonds</h3>
+    <p>Description...</p>
+  </div>
+
+  <div class="featured-card">
+    <img src="/images/article2.jpg">
+    <h3>Molecular Carbon Structures</h3>
+    <p>Description...</p>
+  </div>
+
+  <div class="featured-card">
+    <img src="/images/article3.jpg">
+    <h3>Heavy Ion Irradiation</h3>
+    <p>Description...</p>
+  </div>
+
+</div>
+
 ## Research Areas
 
 - Synthesis of Functionalized Diamonds
