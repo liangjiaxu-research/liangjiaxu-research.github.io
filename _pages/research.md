@@ -24,11 +24,9 @@ feature_row:
     alt: "Cosmogenic Nuclides"
     title: "Cosmogenic Nuclides"
     excerpt: "Applications of cosmogenic radionuclides in Earth surface processes."
-    {% comment %}
     url: "/cosmogenic-nuclides/"
     btn_label: "Learn More"
     btn_class: "btn--primary"
-    {% endcomment %}
 
   - image_path: bio-photo-2.jpg
     alt: "Soil Production"
