@@ -23,6 +23,9 @@ Work and research experience
 03.2012-06.2014 | China Building Materials Academy | Beijing, China | Engineer
 09.2008-06.2009 | Vocational and Technical College of Shuozhou | Shanxi, China | Volunteer Tutor (gap year)
 
+## Contact
+
+Email: j.liang@kristall.uni-frankfurt.de；jliang.research@gmail.com
 
 {% comment %}  
 
