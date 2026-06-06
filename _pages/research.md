@@ -6,13 +6,13 @@ permalink: /research/
 author_profile: false
 
 header:
-overlay_image: /images/research/banner.jpg
-overlay_filter: 0.4
-caption: "Fieldwork in mountainous landscapes"
+  overlay_image: /images/research/banner.jpg
+  overlay_filter: 0.4
+  caption: "Fieldwork in mountainous landscapes"
 
 research_topics:
 
-* image_path: /images/research/landscape.jpg
+  -image_path: /images/research/landscape.jpg
   alt: "Landscape Evolution"
   title: "Landscape Evolution"
   excerpt: "Quantifying how landscapes respond to tectonic and climatic forcing."
@@ -20,7 +20,7 @@ research_topics:
   btn_label: "Learn More"
   btn_class: "btn--primary"
 
-* image_path: /images/research/cosmogenic.jpg
+  -image_path: /images/research/cosmogenic.jpg
   alt: "Cosmogenic Nuclides"
   title: "Cosmogenic Nuclides"
   excerpt: "Applications of cosmogenic radionuclides in Earth surface processes."
@@ -28,7 +28,7 @@ research_topics:
   btn_label: "Learn More"
   btn_class: "btn--primary"
 
-* image_path: /images/research/river.jpg
+  -image_path: /images/research/river.jpg
   alt: "River Incision"
   title: "River Incision"
   excerpt: "River response to uplift, climate variability, and base-level change."
@@ -36,7 +36,7 @@ research_topics:
   btn_label: "Learn More"
   btn_class: "btn--primary"
 
-* image_path: /images/research/soil.jpg
+  -image_path: /images/research/soil.jpg
   alt: "Soil Production"
   title: "Soil Production"
   excerpt: "Soil generation, weathering, and hillslope evolution."
