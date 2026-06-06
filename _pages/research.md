@@ -36,7 +36,7 @@ feature_row:
   btn_label: "Learn More"
   btn_class: "btn--primary"
 
-  -image_path: /images/research/soil.jpg
+  -image_path: /images/bio-photo-2.jpg
   alt: "Soil Production"
   title: "Soil Production"
   excerpt: "Soil generation, weathering, and hillslope evolution."
