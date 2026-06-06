@@ -1,45 +1,52 @@
 const grid = document.getElementById("featuredGrid");
 
-const scrollAmount = 400;
+const cards = grid.querySelectorAll(".featured-card");
+
+const firstClone = cards[0].cloneNode(true);
+const lastClone = cards[cards.length - 1].cloneNode(true);
+
+grid.appendChild(firstClone);
+grid.insertBefore(lastClone, cards[0]);
+
+const gap = 32;
+const cardWidth = cards[0].offsetWidth + gap;
+
+grid.scrollLeft = cardWidth;
 
 document.querySelector(".next").addEventListener("click", () => {
 
-    const maxScroll = grid.scrollWidth - grid.clientWidth;
+    grid.scrollBy({
+        left: cardWidth,
+        behavior: "smooth"
+    });
 
-    if (grid.scrollLeft >= maxScroll - 5) {
-
-        // 最后一页 → 第一页
-        grid.scrollTo({
-            left: 0,
-            behavior: "smooth"
-        });
-
-    } else {
-
-        grid.scrollBy({
-            left: scrollAmount,
-            behavior: "smooth"
-        });
-
-    }
 });
 
 document.querySelector(".prev").addEventListener("click", () => {
 
-    if (grid.scrollLeft <= 5) {
+    grid.scrollBy({
+        left: -cardWidth,
+        behavior: "smooth"
+    });
 
-        // 第一页 → 最后一页
-        grid.scrollTo({
-            left: grid.scrollWidth,
-            behavior: "smooth"
-        });
+});
 
-    } else {
+grid.addEventListener("scrollend", () => {
 
-        grid.scrollBy({
-            left: -scrollAmount,
-            behavior: "smooth"
-        });
+    const maxScroll =
+        grid.scrollWidth - grid.clientWidth;
 
+    // 到最后一个复制的第一张
+    if (grid.scrollLeft >= maxScroll - cardWidth) {
+
+        grid.scrollLeft = cardWidth;
     }
+
+    // 到最前面复制的最后一张
+    if (grid.scrollLeft <= 0) {
+
+        grid.scrollLeft =
+            maxScroll - cardWidth * 2;
+    }
+
 });
