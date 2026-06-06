@@ -13,26 +13,26 @@ header:
 feature_row:
 
   - #image_path: bio-photo-2.jpg
-    alt: "Landscape Evolution"
-    title: "Landscape Evolution"
-    excerpt: "Quantifying how landscapes respond to tectonic and climatic forcing."
+    #alt: "Landscape Evolution"
+    #title: "Landscape Evolution"
+    #excerpt: "Quantifying how landscapes respond to tectonic and climatic forcing."
     #url: "/landscape-evolution/"
     #btn_label: "Learn More"
     #btn_class: "btn--primary"
 
     
-  - image_path: bio-photo-2.jpg
-    alt: "Cosmogenic Nuclides"
-    title: "Cosmogenic Nuclides"
-    excerpt: "Applications of cosmogenic radionuclides in Earth surface processes."
+  - #image_path: bio-photo-2.jpg
+    #alt: "Cosmogenic Nuclides"
+    #title: "Cosmogenic Nuclides"
+    #excerpt: "Applications of cosmogenic radionuclides in Earth surface processes."
     #url: "/cosmogenic-nuclides/"
     #btn_label: "Learn More"
     #btn_class: "btn--primary"
 
-  - image_path: bio-photo-2.jpg
-    alt: "Soil Production"
-    title: "Soil Production"
-    excerpt: "Soil generation, weathering, and hillslope evolution."
+  - #image_path: bio-photo-2.jpg
+    #alt: "Soil Production"
+    #title: "Soil Production"
+    #excerpt: "Soil generation, weathering, and hillslope evolution."
     #url: "/soil-production/"
     #btn_label: "Learn More"
     #btn_class: "btn--primary"
