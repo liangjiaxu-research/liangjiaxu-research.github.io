@@ -39,19 +39,31 @@ My research focuses on Carbon Chemistry at Extreme Conditions.
      </a>
          <p>Description...</p>  
     </div>
- 
+
 
     <div class="featured-card">
-      <img src="/images/PhysRevResearch2026.jpg">
-      <h3>Phys. Rev. Research 2026</h3>
-      <p>Description...</p>
+     <a href="https://doi.org/10.1103/q8w6-wttf" 
+        target="_blank" 
+        class="card-link">
+        
+         <img src="/images/PhysRevResearch2026.jpg">
+         <h3>Phys. Rev. Research 2026</h3>
+     </a>
+         <p>Description...</p>  
     </div>
 
-    <div class="featured-card">
-      <img src="/images/article3.jpg">
-      <h3>More</h3>
-      <p>Description...</p>
+
+     <div class="featured-card">
+     <a href="https://doi.org/10.1016/j.diamond.2020.108000" 
+        target="_blank" 
+        class="card-link">
+        
+         <img src="/images/DiamRelatMater2020.jpg">
+         <h3>Diam. Relat. Mater 2020</h3>
+     </a>
+         <p>Description...</p>  
     </div>
+    
 
      <div class="featured-card">
       <img src="/images/article3.jpg">
