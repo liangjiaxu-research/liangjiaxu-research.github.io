@@ -65,18 +65,6 @@ Key questions include:
 
 ---
 
-## Selected Publications
-
-### Recent Papers
-
-* Author, A., Author, B. (2025). *Landscape evolution in active mountain belts*. Journal Name.
-* Author, A., Author, B. (2024). *Cosmogenic nuclide constraints on denudation rates*. Journal Name.
-* Author, A., Author, B. (2023). *River incision and tectonic forcing*. Journal Name.
-
-[View Full Publication List](/publications/)
-
----
-
 ## Fieldwork Gallery
 
 <div style="display:flex;gap:10px;flex-wrap:wrap;justify-content:center;">
@@ -91,13 +79,3 @@ Key questions include:
 
 ---
 
-## Collaborations
-
-Current collaborations include researchers in:
-
-* Geomorphology
-* Cosmogenic Nuclide Geochronology
-* Landscape Evolution Modeling
-* Tectonics and Surface Processes
-
-For potential collaborations, please contact me via email.
