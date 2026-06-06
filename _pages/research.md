@@ -10,7 +10,7 @@ header:
   overlay_filter: 0.4
   caption: "Fieldwork in mountainous landscapes"
 
-research_topics:
+feature_row:
 
   -image_path: /images/research/landscape.jpg
   alt: "Landscape Evolution"
@@ -61,7 +61,7 @@ Key questions include:
 
 ## Research Themes
 
-{% include feature_row id="research_topics" %}
+{% include feature_row %}
 
 ---
 
