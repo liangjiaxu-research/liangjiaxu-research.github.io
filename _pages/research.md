@@ -12,7 +12,7 @@ header:
 
 feature_row:
 
-  - image_path: /images/bio-photo-2.jpg
+  - image_path: bio-photo-2.jpg
     alt: "Landscape Evolution"
     title: "Landscape Evolution"
     excerpt: "Quantifying how landscapes respond to tectonic and climatic forcing."
@@ -20,7 +20,7 @@ feature_row:
     btn_label: "Learn More"
     btn_class: "btn--primary"
 
-  - image_path: /images/bio-photo-2.jpg
+  - image_path: bio-photo-2.jpg
     alt: "Cosmogenic Nuclides"
     title: "Cosmogenic Nuclides"
     excerpt: "Applications of cosmogenic radionuclides in Earth surface processes."
@@ -36,7 +36,7 @@ feature_row:
     btn_label: "Learn More"
     btn_class: "btn--primary"
 
-  - image_path: /images/bio-photo-2.jpg
+  - image_path: bio-photo-2.jpg
     alt: "Soil Production"
     title: "Soil Production"
     excerpt: "Soil generation, weathering, and hillslope evolution."
@@ -61,7 +61,7 @@ Key questions include:
 
 ## Research Themes
 
-![test](/images/bio-photo-2.jpg)
+{% include feature_row %}
 
 ---
 
