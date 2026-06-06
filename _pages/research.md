@@ -12,7 +12,7 @@ header:
 
 feature_row:
 
-  #- image_path: bio-photo-2.jpg
+  - image_path: bio-photo-2.jpg
     alt: "Landscape Evolution"
     title: "Landscape Evolution"
     excerpt: "Quantifying how landscapes respond to tectonic and climatic forcing."
@@ -28,7 +28,7 @@ feature_row:
     btn_label: "Learn More"
     btn_class: "btn--primary"
 
-  #- image_path: bio-photo-2.jpg
+  - image_path: bio-photo-2.jpg
     alt: "Soil Production"
     title: "Soil Production"
     excerpt: "Soil generation, weathering, and hillslope evolution."
