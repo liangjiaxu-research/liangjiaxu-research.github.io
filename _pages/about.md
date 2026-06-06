@@ -29,13 +29,18 @@ My research focuses on Carbon Chemistry at Extreme Conditions.
 
   <div class="featured-grid" id="featuredGrid">
 
-  <a href="https://doi.org/10.1002/anie.202500923" target="_blank" class="card-link">
     <div class="featured-card">
-      <img src="/images/AngewChemIntEd2025.jpg">
-      <h3>Angew. Chem. Int. Ed. 2025</h3>
-      <p>Description...</p>
+     <a href="https://doi.org/10.1002/anie.202500923" 
+        target="_blank" 
+        class="card-link">
+        
+         <img src="/images/AngewChemIntEd2025.jpg">
+         <h3>Angew. Chem. Int. Ed. 2025</h3>
+         <p>Description...</p>
+       
+     </a>
     </div>
-  </a>
+ 
 
     <div class="featured-card">
       <img src="/images/PhysRevResearch2026.jpg">
