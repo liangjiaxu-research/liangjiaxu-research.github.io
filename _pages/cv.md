@@ -18,8 +18,8 @@ Education
 Work and research experience
 ======
 
-12.2022-10.2025 | Institute of Geosciences, Goethe University Frankfurt | Frankfurt, Germany | Postdoctoral Researcher       
-01.2018-12.2022 | Max Planck Institute for Polymer Research (MPI-P) | Mainz, Germany | Postdoctoral Researcher          
+12.2022-10.2025 | Institute of Geosciences, Goethe University Frankfurt | Frankfurt, Germany | Postdoctoral Researcher
+01.2018-12.2022 | Max Planck Institute for Polymer Research (MPI-P) | Mainz, Germany | Postdoctoral Researcher
 03.2012-06.2014 | China Building Materials Academy | Beijing, China | Engineer
 09.2008-06.2009 | Vocational and Technical College of Shuozhou | Shanxi, China | Volunteer Tutor (gap year)
 
