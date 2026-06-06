@@ -36,9 +36,8 @@ My research focuses on Carbon Chemistry at Extreme Conditions.
         
          <img src="/images/AngewChemIntEd2025.jpg">
          <h3>Angew. Chem. Int. Ed. 2025</h3>
-         <p>Description...</p>
-       
      </a>
+         <p>Description...</p>  
     </div>
  
 
