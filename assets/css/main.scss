@@ -64,7 +64,7 @@
 }
 
 .featured-card {
-    flex: 0 0 300px;
+    flex: 0 0 400px;
     border: 1px solid #ddd;
     border-radius: 10px;
     overflow: hidden;
@@ -76,14 +76,10 @@
 .carousel-btn {
     border: none;
     background: #f5f5f5;
-
     width: 45px;
     height: 45px;
-
     border-radius: 50%;
-
     cursor: pointer;
-
     font-size: 24px;
 }
 
