@@ -33,10 +33,11 @@ author:
   email            : #"liangjiaxu.research@gmail.com" 
 
   # Academic websites
-  academia         : # URL
   googlescholar    : "https://scholar.google.com/citations?user=oD8zFUgAAAAJ&hl"
   orcid            : "https://orcid.org/0000-0001-9410-9709"
   researchgate     : "https://www.researchgate.net/profile/Jiaxu-Liang/publications"
+  
+  academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   inspire-hep      : # URL
   impactstory      : # URL
@@ -56,8 +57,8 @@ author:
 
   # Social media
   twitter          : # Username for X / Twitter
-  linkedin         : # Username
   bluesky          : #"bsky.app" # Replace this with you Bluesky username
+  linkedin         : # Username
   youtube          : # Username
   facebook         : # Username
   wikipedia        : # Username
