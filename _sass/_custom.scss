@@ -112,7 +112,6 @@ body {
 }
 
 /* 导航栏设置-菜单设置-点击效果 */
-
 .masthead__menu-item.selected a {
   color: #CAEEFB;
   font-weight: 700;
@@ -120,6 +119,12 @@ body {
 }
 .greedy-nav a:hover {
     color: #CAEEFB;
+}
+
+/* CV页表格 */
+.cv-table {
+    font-size: 18px;
+    line-height: 1.6;
 }
 
 
