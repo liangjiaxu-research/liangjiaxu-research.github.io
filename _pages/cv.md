@@ -11,20 +11,6 @@ redirect_from:
 
 ---
 
-
-## Education
-
-<tr>
-<td style="border:none;">09.2004–06.2008</td>
-<td style="border:none;">
-, Beijing Institute of Technology (BIT)
-</td>
-<td style="border:none;">
-Beijing, China
-</td>
-</tr>
-</table>
-
 ## Education
 
 <table class="cv-table">
