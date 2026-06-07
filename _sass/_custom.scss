@@ -128,7 +128,7 @@ body {
 .masthead__menu-item.selected a {
   color: #CAEEFB;
   font-weight: 700;
-  border-bottom: 2px solid var(--global-text-color);
+  border-bottom: none;
 }
 
 .masthead__menu-item.selected a:hover {
