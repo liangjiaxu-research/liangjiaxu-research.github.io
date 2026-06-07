@@ -77,11 +77,5 @@ My research focuses on Carbon Chemistry at Extreme Conditions.
 
 </div>
 
-## Research Areas
-
-- Synthesis of Functionalized Diamonds
-- Synthesis of molecular carbon structures
-- Swift heavy ion irradiation on carbon structures
-
 
 
