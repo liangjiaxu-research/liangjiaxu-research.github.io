@@ -43,12 +43,11 @@ feature_row:
 
 My research explores the evolution of Earth's surface across geological timescales. By integrating geomorphology, cosmogenic nuclide geochronology, field observations, GIS analyses, and numerical modeling, I investigate how tectonics, climate, and surface processes shape landscapes.
 
-Key questions include:
+Research Areas include:
 
-* How rapidly do landscapes respond to tectonic uplift?
-* How can cosmogenic nuclides quantify erosion and exposure histories?
-* What controls river incision and terrace formation?
-* How are soils produced and transported across hillslopes?
+- Synthesis of Functionalized Diamonds
+- Synthesis of molecular carbon structures
+- Swift heavy ion irradiation on carbon structures
 
 {% comment %}
 
