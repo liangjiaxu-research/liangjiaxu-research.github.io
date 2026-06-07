@@ -120,6 +120,13 @@ body {
 .greedy-nav a:hover {
     color: #CAEEFB;
 }
+.greedy-nav .visible-links a::before {
+    height: 2px;
+    width: 100%;
+    transform: scaleX(0);
+    background: #CAEEFB;
+    transition: 0.2s ease-in-out;
+}
 
 /* CV页表格 */
 .cv-table {
