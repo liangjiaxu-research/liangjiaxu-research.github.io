@@ -136,19 +136,8 @@ body {
     z-index: 999;    
 }
 
-.initial-content {
-    padding-top: 120px;
-}
-
 .greedy-nav {
     background: #003366;
-    display: flex;
-    align-items: center;
-    justify-content: center;
-}
-
-.greedy-nav .visible-links {
-    background: transparent !important;
 }
 
 .greedy-nav a {
