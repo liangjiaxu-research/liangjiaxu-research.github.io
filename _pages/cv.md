@@ -48,37 +48,36 @@ Beijing, China
   
 ## Work and research experience
 
-
 <table class="cv-table">
 <table style="border:none; width:100%;">
 <tr>
-<td style="border:none; width:20%; vertical-align:top;">12.2022–10.2025</td>
+<td style="border:none; width:20%; vertical-align:top;"><strong>12.2022–10.2025</strong></td>
 <td style="border:none;">
-<strong>Postdoctoral Researcher</strong><br>
+Postdoctoral Researcher<br>
 Institute of Geosciences, Goethe University Frankfurt, Frankfurt, Germany
 </td>
 </tr>
 
 <tr>
-<td style="border:none; vertical-align:top;">01.2018–12.2022</td>
+<td style="border:none; vertical-align:top;"></strong>01.2018–12.2022</strong></td>
 <td style="border:none;">
-<strong>Postdoctoral Researcher</strong><br>
+Postdoctoral Researcher<br>
 Max Planck Institute for Polymer Research (MPI-P), Mainz, Germany
 </td>
 </tr>
 
 <tr>
-<td style="border:none; vertical-align:top;">03.2012–06.2014</td>
+<td style="border:none; vertical-align:top;"></strong>03.2012–06.2014</strong></td>
 <td style="border:none;">
-<strong>Engineer</strong><br>
+Engineer<br>
 China Building Materials Academy, Beijing, China
 </td>
 </tr>
 
 <tr>
-<td style="border:none; vertical-align:top;">09.2008–06.2009</td>
+<td style="border:none; vertical-align:top;"></strong>09.2008–06.2009</strong></td>
 <td style="border:none;">
-<strong>Volunteer Tutor (Gap Year)</strong><br>
+Volunteer Tutor (Gap Year)<br>
 Vocational and Technical College of Shuozhou, Shanxi, China
 </td>
 </tr>
