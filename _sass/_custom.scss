@@ -112,7 +112,7 @@ body {
 }
 
 .greedy-nav a {
-    color: #eee;
+    color: #F2F2F2;
     font-size: 18px;
     font-weight: 500;
     font-family: "Inter", sans-serif;
@@ -122,11 +122,11 @@ body {
 }
 
 .greedy-nav a:hover {
-    color: white;
+    color: #CAEEFB;
 }
 
 .masthead__menu-item.selected a {
-  color: white;
+  color: #CAEEFB;
   font-weight: 700;
   border-bottom: 2px solid var(--global-text-color);
 }
