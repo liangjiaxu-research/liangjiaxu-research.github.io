@@ -1,0 +1,115 @@
+#首页图片设置
+.page__hero--overlay {
+    min-height: 50vh;
+    display: flex;
+    align-items: center;
+    max-width: 1200px;
+    padding-top: 80px;
+}
+
+#首页卡片设置
+.carousel-wrapper {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.carousel-btn {
+    border: none;
+    background: #f5f5f5;
+    width: 45px;
+    height: 45px;
+    border-radius: 50%;
+    cursor: pointer;
+    font-size: 24px;
+}
+
+.featured-grid {
+    display: flex;
+    gap: 2rem;
+    overflow: hidden;
+    flex: 1;
+    scroll-behavior: auto; 
+    transition: transform 0.4s cubic-bezier(0.22,1,0.36,1);
+}
+
+.featured-card {
+    flex: 0 0 350px;
+    border: 1px solid #ddd;
+    border-radius: 10px;
+    overflow: hidden;
+    background: white;
+    transition: transform 0.2s ease,
+                box-shadow 0.3s ease;
+}
+
+.featured-card img {
+    width: 100%;
+    height: auto;
+    object-fit: contain;
+    display: block;
+}
+
+.featured-card:hover {
+    transform: translateY(-8px);
+    box-shadow: 0 8px 24px rgba(0,0,0,0.15);
+}
+
+.card-link {
+    text-decoration: none;
+    color: inherit;
+}
+
+#去除Publication中题目的超链接
+.archive__item:hover .archive__item-title {
+    text-decoration: none !important;
+    border-bottom: none !important;
+    box-shadow: none !important;
+}
+
+.archive__item-title {
+    font-size: 1.1em;
+    text-decoration: none !important;
+    border-bottom: none !important;
+    box-shadow: none !important;
+}
+
+#整体页面设置
+body {
+    background-image: url('/images/bg.jpg');
+    background-size: cover;
+    background: #f5f5f5;
+    background-attachment: fixed;
+}
+
+.masthead {
+    background: transparent;
+    background-color: #003366 !important;
+    min-height: 80px;
+    border-bottom: 1px solid #e5e5e5;
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 999;    
+}
+
+.greedy-nav {
+    background: #003366;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+
+.greedy-nav a {
+    color: #f5f5f5;
+    font-size: 18px;
+    font-weight: 500;
+    font-family: "Inter", sans-serif;
+    margin-left: 20px;
+    margin-right: 20px;
+    margin: 0 15px;
+}
+
+.greedy-nav a:hover {
+    color: #003366;
+}
