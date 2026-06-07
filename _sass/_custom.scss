@@ -61,14 +61,13 @@
 }
 
 
-/* Publications */
+/* 去除Publication中题目的超链接 */
 .archive__item:hover .archive__item-title {
     text-decoration: none !important;
     border-bottom: none !important;
     box-shadow: none !important;
 }
 
-#去除Publication中题目的超链接
 .archive__item-title {
     font-size: 1.1em;
     text-decoration: none !important;
@@ -100,6 +99,12 @@ body {
     background: transparent !important;
 }
 
+.masthead__menu-item.selected a {
+  color: #CAEEFB;
+  font-weight: 700;
+  border-bottom: none !important;
+}
+
 .masthead__inner-wrap {
     max-width: none !important;
 }
@@ -125,10 +130,5 @@ body {
     color: #CAEEFB;
 }
 
-.masthead__menu-item.selected a {
-  color: #CAEEFB;
-  font-weight: 700;
-  border-bottom: none !important;
-}
 
 
