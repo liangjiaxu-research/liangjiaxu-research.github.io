@@ -110,6 +110,18 @@ body {
     padding-bottom: 4px !important;
 }
 
+.site-logo {
+    display: flex;
+    align-items: center;
+}
+.site-logo img {
+    width: 40px;
+    height: 40px;
+    border-radius: 50%;
+    object-fit: cover;
+    margin-right: 10px;
+}
+
 /* 导航栏设置-菜单设置-点击效果 */
 .masthead__menu-item.selected a {
   color: #CAEEFB;
