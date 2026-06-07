@@ -1,4 +1,4 @@
-#首页图片设置
+/* HOME页图片设置 */
 .page__hero--overlay {
     min-height: 50vh;
     display: flex;
@@ -7,7 +7,7 @@
     padding-top: 80px;
 }
 
-#首页卡片设置
+/* HOME页卡片设置 */
 .carousel-wrapper {
     display: flex;
     align-items: center;
@@ -76,7 +76,7 @@
     box-shadow: none !important;
 }
 
-#整体页面设置
+/* 整体页面设置 */
 body {
     background-image: url('/images/bg.jpg');
     background-size: cover;
