@@ -14,36 +14,45 @@ redirect_from:
 
 ## Education
 
-<table style="border:none; width:100%;">
-<tr>
-<td style="border:none; width:20%;">09.2014–12.2017</td>
-<td style="border:none; width:65%;">
-Ph.D. in Physical Chemistry, National Center for Nanoscience and Technology (NCNST)
-</td>
-<td style="border:none; width:15%;">
-Beijing, China
-</td>
-</tr>
-
-<tr>
-<td style="border:none;">09.2009–03.2012</td>
-<td style="border:none;">
-M.Sc. in Physical Chemistry of Materials, Beijing Institute of Technology (BIT)
-</td>
-<td style="border:none;">
-Beijing, China
-</td>
-</tr>
-
 <tr>
 <td style="border:none;">09.2004–06.2008</td>
 <td style="border:none;">
-B.Eng. in Polymer Science and Engineering, Beijing Institute of Technology (BIT)
+, Beijing Institute of Technology (BIT)
 </td>
 <td style="border:none;">
 Beijing, China
 </td>
 </tr>
+</table>
+
+## Education
+
+<table class="cv-table">
+<table style="border:none; width:100%;">
+<tr>
+<td style="border:none; width:20%; vertical-align:top;"><strong>09.2014–12.2017</strong></td>
+<td style="border:none;">
+Ph.D. in Physical Chemistry<br>
+Ph.D. in Physical Chemistry, National Center for Nanoscience and Technology (NCNST), Beijing, China
+</td>
+</tr>
+
+<tr>
+<td style="border:none; vertical-align:top;"><strong>09.2009–03.2012</strong></td>
+<td style="border:none;">
+M.Sc. in Physical Chemistry of Materials<br>
+Beijing Institute of Technology (BIT), Beijing, China
+</td>
+</tr>
+
+<tr>
+<td style="border:none; vertical-align:top;"><strong>09.2004–06.2008</strong></td>
+<td style="border:none;">
+B.Eng. in Polymer Science and Engineering<br>
+Beijing Institute of Technology (BIT), Beijing, China
+</td>
+</tr>
+</table>
 </table>
   
 ## Work and research experience
@@ -59,7 +68,7 @@ Institute of Geosciences, Goethe University Frankfurt, Frankfurt, Germany
 </tr>
 
 <tr>
-<td style="border:none; vertical-align:top;"></strong>01.2018–12.2022</strong></td>
+<td style="border:none; vertical-align:top;"><strong>01.2018–12.2022</strong></td>
 <td style="border:none;">
 Postdoctoral Researcher<br>
 Max Planck Institute for Polymer Research (MPI-P), Mainz, Germany
@@ -67,7 +76,7 @@ Max Planck Institute for Polymer Research (MPI-P), Mainz, Germany
 </tr>
 
 <tr>
-<td style="border:none; vertical-align:top;"></strong>03.2012–06.2014</strong></td>
+<td style="border:none; vertical-align:top;"><strong>03.2012–06.2014</strong></td>
 <td style="border:none;">
 Engineer<br>
 China Building Materials Academy, Beijing, China
@@ -75,7 +84,7 @@ China Building Materials Academy, Beijing, China
 </tr>
 
 <tr>
-<td style="border:none; vertical-align:top;"></strong>09.2008–06.2009</strong></td>
+<td style="border:none; vertical-align:top;"><strong>09.2008–06.2009</strong></td>
 <td style="border:none;">
 Volunteer Tutor (Gap Year)<br>
 Vocational and Technical College of Shuozhou, Shanxi, China
