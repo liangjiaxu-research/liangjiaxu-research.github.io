@@ -118,7 +118,8 @@ body {
     color: #CAEEFB;
 }
 .greedy-nav .visible-links a::before {
-    height: 2px;
+    bottom: 10px !important;
+    height: 1.5px;
     width: 100%;
     transform: scaleX(0);
     background: #CAEEFB;
