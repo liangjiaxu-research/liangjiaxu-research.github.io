@@ -123,9 +123,15 @@ body {
 
 /* CV页表格 */
 .cv-table {
-    font-size: 18px;
+    width: 100%;
+    border: none;
+    font-size: 1.05rem;
     line-height: 1.6;
 }
-
+.cv-table td {
+    border: none !important;
+    padding: 6px 10px;
+    vertical-align: top;
+}
 
 
