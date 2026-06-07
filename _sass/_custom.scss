@@ -121,6 +121,7 @@ body {
     color: #CAEEFB;
 }
 .greedy-nav .visible-links a::before {
+    bottom: 5px !important;
     height: 2px;
     width: 100%;
     transform: scaleX(0);
