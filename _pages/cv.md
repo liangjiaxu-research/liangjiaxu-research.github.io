@@ -14,7 +14,6 @@ redirect_from:
 ## Education
 
 <table class="cv-table">
-<table style="border:none; width:100%;">
 <tr>
 <td style="border:none; width:20%; vertical-align:top;"><strong>09.2014–12.2017</strong></td>
 <td style="border:none;">
@@ -39,12 +38,10 @@ Beijing Institute of Technology (BIT), Beijing, China
 </td>
 </tr>
 </table>
-</table>
   
 ## Work and research experience
 
 <table class="cv-table">
-<table style="border:none; width:100%;">
 <tr>
 <td style="border:none; width:20%; vertical-align:top;"><strong>12.2022–10.2025</strong></td>
 <td style="border:none;">
@@ -76,7 +73,6 @@ Volunteer Tutor (Gap Year)<br>
 Vocational and Technical College of Shuozhou, Shanxi, China
 </td>
 </tr>
-</table>
 </table>
 
 
