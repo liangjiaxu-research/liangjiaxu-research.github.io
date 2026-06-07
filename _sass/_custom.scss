@@ -99,18 +99,16 @@ body {
     background: transparent !important;
 }
 
-.masthead__menu-item.selected a {
-  color: #CAEEFB;
-  font-weight: 700;
-  border-bottom: none !important;
-}
-
 .masthead__inner-wrap {
     max-width: none !important;
 }
 
+/* 导航栏设置-菜单设置 */
 .greedy-nav {
     background: #003366;
+    display: flex;
+    align-items: center;
+    justify-content: center;
 }
 
 .greedy-nav a {
@@ -121,6 +119,14 @@ body {
     margin-left: 20px;
     margin-right: 20px;
     margin: 0 15px;
+}
+
+/* 导航栏设置-菜单设置-点击效果 */
+
+.masthead__menu-item.selected a {
+  color: #CAEEFB;
+  font-weight: 700;
+  border-bottom: none !important;
 }
 
 .greedy-nav a:hover {
