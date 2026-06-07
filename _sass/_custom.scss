@@ -128,12 +128,12 @@ body {
 .masthead__menu-item.selected a {
   color: #CAEEFB;
   font-weight: 700;
-  border-bottom: none;
+  border-bottom: none !important;
 }
 
 .masthead__menu-item.selected a:hover {
   color: var(--global-text-color);
-  border-bottom: 2px solid var(--global-text-color);
+  border-bottom: none !important;
   /* No need to repeat pointer-events and cursor here */
 }
 
