@@ -15,7 +15,7 @@ redirect_from:
 
 <table class="cv-table">
 <tr>
-<td style="border:none; width:20%; vertical-align:top;"><strong>09.2014–12.2017</strong></td>
+<td style="border:none; width:20%; vertical-align:top;">09.2014–12.2017</td>
 <td style="border:none;">
 National Center for Nanoscience and Technology (NCNST), Beijing, China<br>
 Ph.D. in Physical Chemistry
@@ -23,7 +23,7 @@ Ph.D. in Physical Chemistry
 </tr>
 
 <tr>
-<td style="border:none; vertical-align:top;"><strong>09.2009–03.2012</strong></td>
+<td style="border:none; vertical-align:top;">09.2009–03.2012</td>
 <td style="border:none;">
 Beijing Institute of Technology (BIT), Beijing, China<br>
 M.Sc. in Physical Chemistry of Materials
@@ -31,7 +31,7 @@ M.Sc. in Physical Chemistry of Materials
 </tr>
 
 <tr>
-<td style="border:none; vertical-align:top;"><strong>09.2004–06.2008</strong></td>
+<td style="border:none; vertical-align:top;">09.2004–06.2008</td>
 <td style="border:none;">
 Beijing Institute of Technology (BIT), Beijing, China<br>
 B.Eng. in Polymer Science and Engineering
@@ -43,7 +43,7 @@ B.Eng. in Polymer Science and Engineering
 
 <table class="cv-table">
 <tr>
-<td style="border:none; width:20%; vertical-align:top;"><strong>12.2022–now</strong></td>
+<td style="border:none; width:20%; vertical-align:top;">12.2022–now</td>
 <td style="border:none;">
 Institute of Geosciences, Goethe University Frankfurt, Frankfurt, Germany<br>
 Postdoctoral Researcher
@@ -51,7 +51,7 @@ Postdoctoral Researcher
 </tr>
 
 <tr>
-<td style="border:none; vertical-align:top;"><strong>01.2018–12.2022</strong></td>
+<td style="border:none; vertical-align:top;">01.2018–12.2022</td>
 <td style="border:none;">
 Max Planck Institute for Polymer Research (MPI-P), Mainz, Germany<br>
 Postdoctoral Researcher
@@ -59,7 +59,7 @@ Postdoctoral Researcher
 </tr>
 
 <tr>
-<td style="border:none; vertical-align:top;"><strong>03.2012–06.2014</strong></td>
+<td style="border:none; vertical-align:top;">03.2012–06.2014</td>
 <td style="border:none;">
 China Building Materials Academy, Beijing, China<br>
 Engineer
@@ -67,7 +67,7 @@ Engineer
 </tr>
 
 <tr>
-<td style="border:none; vertical-align:top;"><strong>09.2008–06.2009</strong></td>
+<td style="border:none; vertical-align:top;">09.2008–06.2009</td>
 <td style="border:none;">
 Vocational and Technical College of Shuozhou, Shanxi, China<br>
 Volunteer Tutor (Gap Year)
