@@ -12,9 +12,7 @@ redirect_from:
 ---
 
 
-# Education
-
-<h2>Education</h2>
+## Education
 
 <table style="border:none; width:100%;">
 <tr>
@@ -48,7 +46,7 @@ Beijing, China
 </tr>
 </table>
   
-# Work and research experience
+## Work and research experience
 
 
 <table class="cv-table">
