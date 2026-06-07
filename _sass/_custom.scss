@@ -60,7 +60,7 @@
     color: inherit;
 }
 
-#去除Publication中题目的超链接
+
 /* Publications */
 .archive__item:hover .archive__item-title {
     text-decoration: none !important;
@@ -68,6 +68,7 @@
     box-shadow: none !important;
 }
 
+#去除Publication中题目的超链接
 .archive__item-title {
     font-size: 1.1em;
     text-decoration: none !important;
