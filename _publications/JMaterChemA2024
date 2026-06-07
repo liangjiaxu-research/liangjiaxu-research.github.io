@@ -7,6 +7,6 @@ excerpt: ''
 date: 2024-07-27
 venue: 'J. Mater. Chem. A'
 paperurl: 'DOI	https://doi.org/10.1039/D4TA03422H'
-citation: 'X. Mou, J. Zhang, B. Zhao, Y. Dong, H. Liu, J. Liang*, X. Xin, Y. Asakura, S. Zhang*, Z. Xiao*, Y. Yamauchi*. J. Mater. Chem. A, 2024, 12, 20868.'
+citation: 'X. Mou, J. Zhang, B. Zhao, Y. Dong, H. Liu, <strong>J. Liang*</strong>, X. Xin, Y. Asakura, S. Zhang*, Z. Xiao*, Y. Yamauchi*. J. Mater. Chem. A, 2024, 12, 20868.'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
