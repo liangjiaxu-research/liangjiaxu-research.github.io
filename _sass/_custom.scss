@@ -124,7 +124,7 @@ body {
 /* CV页表格 */
 .cv-table {
     width: 100%;
-    border: none;
+    border: none !important;
     font-size: 1.05rem;
     line-height: 1.6;
 }
