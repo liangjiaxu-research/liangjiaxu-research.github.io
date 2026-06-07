@@ -11,7 +11,7 @@ redirect_from:
 
 ---
 
-
+<br><br>
 
 Education
 ======
@@ -30,9 +30,7 @@ Work and research experience
 
 ## Contact
 
-Email: j.liang@kristall.uni-frankfurt.de or jliang.research@gmail.com
-
-<u>这是下划线文字</u> or <u>这是下划线文字</u>
+Email: <u>j.liang@kristall.uni-frankfurt.de</u> or <u>jliang.research@gmail.com</u>
 
 {% comment %}  
 
