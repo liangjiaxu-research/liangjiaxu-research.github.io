@@ -18,7 +18,7 @@ redirect_from:
 <td style="border:none; width:20%; vertical-align:top;"><strong>09.2014–12.2017</strong></td>
 <td style="border:none;">
 Ph.D. in Physical Chemistry<br>
-Ph.D. in Physical Chemistry, National Center for Nanoscience and Technology (NCNST), Beijing, China
+National Center for Nanoscience and Technology (NCNST), Beijing, China
 </td>
 </tr>
 
@@ -43,7 +43,7 @@ Beijing Institute of Technology (BIT), Beijing, China
 
 <table class="cv-table">
 <tr>
-<td style="border:none; width:20%; vertical-align:top;"><strong>12.2022–10.2025</strong></td>
+<td style="border:none; width:20%; vertical-align:top;"><strong>12.2022–now</strong></td>
 <td style="border:none;">
 Postdoctoral Researcher<br>
 Institute of Geosciences, Goethe University Frankfurt, Frankfurt, Germany
