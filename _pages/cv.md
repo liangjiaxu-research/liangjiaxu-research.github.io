@@ -17,24 +17,24 @@ redirect_from:
 <tr>
 <td style="border:none; width:20%; vertical-align:top;"><strong>09.2014–12.2017</strong></td>
 <td style="border:none;">
-Ph.D. in Physical Chemistry<br>
-National Center for Nanoscience and Technology (NCNST), Beijing, China
+National Center for Nanoscience and Technology (NCNST), Beijing, China<br>
+Ph.D. in Physical Chemistry
 </td>
 </tr>
 
 <tr>
 <td style="border:none; vertical-align:top;"><strong>09.2009–03.2012</strong></td>
 <td style="border:none;">
-M.Sc. in Physical Chemistry of Materials<br>
-Beijing Institute of Technology (BIT), Beijing, China
+Beijing Institute of Technology (BIT), Beijing, China<br>
+M.Sc. in Physical Chemistry of Materials
 </td>
 </tr>
 
 <tr>
 <td style="border:none; vertical-align:top;"><strong>09.2004–06.2008</strong></td>
 <td style="border:none;">
-B.Eng. in Polymer Science and Engineering<br>
-Beijing Institute of Technology (BIT), Beijing, China
+Beijing Institute of Technology (BIT), Beijing, China<br>
+B.Eng. in Polymer Science and Engineering
 </td>
 </tr>
 </table>
@@ -45,32 +45,32 @@ Beijing Institute of Technology (BIT), Beijing, China
 <tr>
 <td style="border:none; width:20%; vertical-align:top;"><strong>12.2022–now</strong></td>
 <td style="border:none;">
-Postdoctoral Researcher<br>
-Institute of Geosciences, Goethe University Frankfurt, Frankfurt, Germany
+Institute of Geosciences, Goethe University Frankfurt, Frankfurt, Germany<br>
+Postdoctoral Researcher
 </td>
 </tr>
 
 <tr>
 <td style="border:none; vertical-align:top;"><strong>01.2018–12.2022</strong></td>
 <td style="border:none;">
-Postdoctoral Researcher<br>
-Max Planck Institute for Polymer Research (MPI-P), Mainz, Germany
+Max Planck Institute for Polymer Research (MPI-P), Mainz, Germany<br>
+Postdoctoral Researcher
 </td>
 </tr>
 
 <tr>
 <td style="border:none; vertical-align:top;"><strong>03.2012–06.2014</strong></td>
 <td style="border:none;">
-Engineer<br>
-China Building Materials Academy, Beijing, China
+China Building Materials Academy, Beijing, China<br>
+Engineer
 </td>
 </tr>
 
 <tr>
 <td style="border:none; vertical-align:top;"><strong>09.2008–06.2009</strong></td>
 <td style="border:none;">
-Volunteer Tutor (Gap Year)<br>
-Vocational and Technical College of Shuozhou, Shanxi, China
+Vocational and Technical College of Shuozhou, Shanxi, China<br>
+Volunteer Tutor (Gap Year)
 </td>
 </tr>
 </table>
