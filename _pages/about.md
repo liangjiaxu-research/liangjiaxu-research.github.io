@@ -29,7 +29,7 @@ My research focuses on Carbon Chemistry at Extreme Conditions.
 
   <div class="featured-grid" id="featuredGrid">
 
-    /* first paper */
+
     <div class="featured-card">
      <a href="https://doi.org/10.1038/s41586-026-10669-3" 
         target="_blank" 
@@ -40,7 +40,7 @@ My research focuses on Carbon Chemistry at Extreme Conditions.
         <p>Description...</p>  
     </div>
 
-     /* second paper */
+
     <div class="featured-card">
      <a href="https://doi.org/10.1002/anie.202500923" 
         target="_blank" 
@@ -51,7 +51,7 @@ My research focuses on Carbon Chemistry at Extreme Conditions.
         <p>Description...</p>  
     </div>
 
-    /* third paper */
+
     <div class="featured-card">
      <a href="https://doi.org/10.1103/q8w6-wttf" 
         target="_blank" 
@@ -62,7 +62,7 @@ My research focuses on Carbon Chemistry at Extreme Conditions.
          <p>Description...</p>  
     </div>
 
-     /* fourth paper */
+
      <div class="featured-card">
      <a href="https://doi.org/10.1016/j.diamond.2020.108000" 
         target="_blank" 
