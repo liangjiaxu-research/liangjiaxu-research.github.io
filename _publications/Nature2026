@@ -7,6 +7,6 @@ excerpt: ''
 date: 2026-05-26
 venue: 'Nature'
 paperurl: 'https://doi.org/10.1038/s41586-026-10669-3'
-citation: 'J. Liang<sup>#</sup>, C. Ender<sup>#</sup>, N. Forero-Martinez, I. Batatia, J. Liu, X. Yang, R. Brouwer, L. Kazak, R. Blinder, L. Cancellara, N. Tarakina, Y. Liu, T. Eklund, M. Sinha, S. Köster, S. Bhat, F. Rohmann, A. Tangemann, K. Gallo, R. Berger, R. Farla, A. Kubanek, K. Amann-Winkel, M. Wagner, F. Jelezko, K. Müllen, G. Csányi, R. Cortes-Huerto, Y. Wu*, T. Weil*. Nature, 2026.'
+citation: '<strong>J. Liang<sup>#</sup></strong>, C. Ender<sup>#</sup>, N. Forero-Martinez, I. Batatia, J. Liu, X. Yang, R. Brouwer, L. Kazak, R. Blinder, L. Cancellara, N. Tarakina, Y. Liu, T. Eklund, M. Sinha, S. Köster, S. Bhat, F. Rohmann, A. Tangemann, K. Gallo, R. Berger, R. Farla, A. Kubanek, K. Amann-Winkel, M. Wagner, F. Jelezko, K. Müllen, G. Csányi, R. Cortes-Huerto, Y. Wu*, T. Weil*. Nature, 2026.'
 ---
 The contents above will be part of a list of publications, if the user clicks the link for the publication than the contents of section will be rendered as a full page, allowing you to provide more information about the paper for the reader. When publications are displayed as a single page, the contents of the above "citation" field will automatically be included below this section in a smaller font.
