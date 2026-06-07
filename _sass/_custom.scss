@@ -124,7 +124,7 @@ body {
     color: #003366;
 }
 
-{% comment %}
+{% comment %
 .masthead__menu-item.selected a {
   color: var(--global-text-color);
   font-weight: 700;
@@ -139,4 +139,4 @@ body {
   /* No need to repeat pointer-events and cursor here */
 }
 
-{% endcomment %}
+% endcomment %}
