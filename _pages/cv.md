@@ -14,6 +14,40 @@ redirect_from:
 
 # Education
 
+<h2>Education</h2>
+
+<table style="border:none; width:100%;">
+<tr>
+<td style="border:none; width:20%;">09.2014–12.2017</td>
+<td style="border:none; width:65%;">
+Ph.D. in Physical Chemistry, National Center for Nanoscience and Technology (NCNST)
+</td>
+<td style="border:none; width:15%;">
+Beijing, China
+</td>
+</tr>
+
+<tr>
+<td style="border:none;">09.2009–03.2012</td>
+<td style="border:none;">
+M.Sc. in Physical Chemistry of Materials, Beijing Institute of Technology (BIT)
+</td>
+<td style="border:none;">
+Beijing, China
+</td>
+</tr>
+
+<tr>
+<td style="border:none;">09.2004–06.2008</td>
+<td style="border:none;">
+B.Eng. in Polymer Science and Engineering, Beijing Institute of Technology (BIT)
+</td>
+<td style="border:none;">
+Beijing, China
+</td>
+</tr>
+</table>
+
 | 09.2014-12.2017 | Ph.D. in Physical Chemistry  National Center for Nanoscience and Technology (NCNST) | Beijing, China
 | 09.2009-03.2012 | M.Sc. in Physical Chemistry of Materials, Beijing Institute of Technology (BIT) | Beijing, China
 | 09.2004-06.2008 | B.Eng. in Polymer Science and Engineering, Beijing Institute of Technology (BIT) | Beijing, China
