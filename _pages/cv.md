@@ -54,6 +54,42 @@ Beijing, China
   
 # Work and research experience
 
+<h2>Work and Research Experience</h2>
+
+<table style="border:none; width:100%;">
+<tr>
+<td style="border:none; width:20%; vertical-align:top;">12.2022–10.2025</td>
+<td style="border:none;">
+<strong>Postdoctoral Researcher</strong><br>
+Institute of Geosciences, Goethe University Frankfurt, Frankfurt, Germany
+</td>
+</tr>
+
+<tr>
+<td style="border:none; vertical-align:top;">01.2018–12.2022</td>
+<td style="border:none;">
+<strong>Postdoctoral Researcher</strong><br>
+Max Planck Institute for Polymer Research (MPI-P), Mainz, Germany
+</td>
+</tr>
+
+<tr>
+<td style="border:none; vertical-align:top;">03.2012–06.2014</td>
+<td style="border:none;">
+<strong>Engineer</strong><br>
+China Building Materials Academy, Beijing, China
+</td>
+</tr>
+
+<tr>
+<td style="border:none; vertical-align:top;">09.2008–06.2009</td>
+<td style="border:none;">
+<strong>Volunteer Tutor (Gap Year)</strong><br>
+Vocational and Technical College of Shuozhou, Shanxi, China
+</td>
+</tr>
+</table>
+
 | 12.2022-10.2025 | Institute of Geosciences, Goethe University Frankfurt | Frankfurt, Germany | Postdoctoral Researcher
 | 01.2018-12.2022 | Max Planck Institute for Polymer Research (MPI-P) | Mainz, Germany | Postdoctoral Researcher
 | 03.2012-06.2014 | China Building Materials Academy | Beijing, China | Engineer
