@@ -14,7 +14,7 @@ classes: wide
 
 ---
 
-<h1 style="color:#003366;">
+<h1 style="color: #003366;">
     Welcome
 </h1>
 
@@ -22,7 +22,7 @@ Welcome to my Research Website from <a href="https://www.geo.uni-frankfurt.de/59
 
 My research focuses on Carbon Chemistry at Extreme Conditions.
 
-<h2 style="color:#003366;">
+<h2 style="color: #003366;">
     Featured Articles
 </h2>
 
