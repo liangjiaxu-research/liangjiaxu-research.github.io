@@ -84,8 +84,8 @@ body {
 
 
 /* 去除Publication中题目的超链接 */
-.archive__item:hover .archive__item-title {
-    text-decoration: none;
+.archive__item:hover {
+    text-decoration: none !important;
     border-bottom: none !important;
     box-shadow: none !important;
 }
