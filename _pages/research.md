@@ -49,7 +49,7 @@ My research explores the evolution of Earth's surface across geological timescal
 
 - Synthesis of Functionalized Diamonds
 - Synthesis of Molecular Carbon Structures
-- Carbon structures at extreme conditions beyond HPHT
+- Carbon Structures at Extreme Conditions beyond HPHT
 
 {% comment %}
 
