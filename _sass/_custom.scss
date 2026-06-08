@@ -42,7 +42,7 @@ body {
 }
 .featured-grid {
     display: flex;
-    gap: 2rem;
+    gap: 1rem;
     overflow: hidden;
     flex: 1;
     scroll-behavior: auto; 
@@ -51,7 +51,7 @@ body {
     transition: transform 0.4s cubic-bezier(0.4,0,0.2,1);
 }
 .featured-card {
-    flex: 0 0 320px;
+    flex: 0 0 350px;
     border: 1px solid #ddd;
     border-radius: 10px;
     overflow: hidden;
