@@ -76,6 +76,10 @@ body {
     background-size: cover;
     background: #f5f5f5;
     background-attachment: fixed;
+    padding-top: 80px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
 }
 
 /* 导航栏设置 */
@@ -139,6 +143,10 @@ body {
     transform: scaleX(0);
     background: #CAEEFB;
     transition: 0.2s ease-in-out;
+}
+
+.page__footer {
+    position: static !important;
 }
 
 /* CV页表格 */
