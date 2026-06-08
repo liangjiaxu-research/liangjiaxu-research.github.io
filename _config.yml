@@ -23,7 +23,7 @@ repository               : "liangjiaxu-research.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "jiaxu_profile.jpg"
+  avatar           : "jiaxu_profile.png"
   name             : "Jiaxu Liang"
   pronouns         : # example: "she/her"  
   bio              : "Postdoctoral Researcher"
