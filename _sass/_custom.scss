@@ -1,3 +1,15 @@
+/* 整体页面设置 */
+body {
+    background-image: url('/images/bg.jpg');
+    background-size: cover;
+    background: #f5f5f5;
+    background-attachment: fixed;
+    padding-top: 80px;
+    padding-right: 0px;
+    padding-bottom: 100px;
+    padding-left: 0px;
+}
+
 /* HOME页图片设置 */
 .page__hero--overlay {
     min-height: 50vh;
@@ -70,17 +82,6 @@
     box-shadow: none !important;
 }
 
-/* 整体页面设置 */
-body {
-    background-image: url('/images/bg.jpg');
-    background-size: cover;
-    background: #f5f5f5;
-    background-attachment: fixed;
-    padding-top: 80px;
-    padding-right: 0px;
-    padding-bottom: 100px;
-    padding-left: 0px;
-}
 
 /* 导航栏设置 */
 .masthead {
@@ -145,11 +146,12 @@ body {
     transition: 0.2s ease-in-out;
 }
 
+/* 页脚设置 */
 .page__footer {
     position: static !important;
     background-color: #003366;
-    height: 30px
-    margin-top: 3em;
+    height: 60px
+    margin-top: 0em;
 }
 
 /* CV页表格 */
