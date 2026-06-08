@@ -14,14 +14,17 @@ classes: wide
 
 ---
 
-
-# Welcome
+<h1 style="color:#003366;">
+    Welcome
+</h1>
 
 Welcome to my Research Website from <a href="https://www.geo.uni-frankfurt.de/59244748/AG_Winkler#a_29c0515d-6b7f6354" target="_blank">AG Winkler</a> at Goethe University Frankfurt. 
 
 My research focuses on Carbon Chemistry at Extreme Conditions.
 
-<h2>Featured Articles</h2>
+<h2 style="color:#003366;">
+    Featured Articles
+</h2>
 
 <div class="carousel-wrapper">
 
