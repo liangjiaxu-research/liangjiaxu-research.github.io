@@ -183,11 +183,13 @@ body {
     vertical-align: top;
 }
 
+/* CV头像设置 */
 .author__avatar img {
-    width: 160px;
-    height: 160px;
+    width: 180px;
+    height: 180px;
     border-radius: 50%;
     object-fit: cover;
+    border: none
 }
 
 
