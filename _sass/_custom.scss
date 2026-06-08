@@ -185,13 +185,13 @@ body {
 
 /* CV头像设置 */
 .author__avatar img {
-    width: 160px;
-    height: 160px;
-    border-radius: 50%;
+    width: 160px !important;
+    height: 160px !important;
+    border-radius: 50% !important;
     object-fit: cover;
 }
 .author__avatar {
-    border: none;
+    border: none !important;
 }
 
 
