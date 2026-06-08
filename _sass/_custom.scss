@@ -16,6 +16,13 @@ body {
     padding-bottom: 2rem;
 }
 
+/* 去除Sidebar空间 */
+.archive--nosidebar {
+    width: 100% !important;
+    margin-left: 60px !important;
+    padding-left: 0 !important;
+}
+
 /* HOME页图片设置 */
 .page__hero--overlay {
     min-height: 50vh;
@@ -174,11 +181,6 @@ body {
 }
 
 
-/* 去除Sidebar空间 */
-.archive--nosidebar {
-    width: 100% !important;
-    margin-left: 60px !important;
-    padding-left: 0 !important;
-}
+
 
 
