@@ -39,11 +39,13 @@ feature_row:
 
 ---
 
-# Research Overview
+<h1 style="color:#003366;">
+    Research Overview
+</h1>
 
 My research explores the evolution of Earth's surface across geological timescales. By integrating geomorphology, cosmogenic nuclide geochronology, field observations, GIS analyses, and numerical modeling, I investigate how tectonics, climate, and surface processes shape landscapes.
 
-## Research Areas include:
+<strong>Research Areas include:</strong>
 
 - Synthesis of Functionalized Diamonds
 - Synthesis of Molecular Carbon Structures
