@@ -20,8 +20,8 @@ body {
 .archive--nosidebar {
     width: 100% !important;
     margin-left: 0 !important;
-    padding-left: 28 !important;
-    padding-right: 28 !important;
+    padding-left: 28px !important;
+    padding-right: 28px !important;
 }
 
 /* HOME页图片设置 */
@@ -91,6 +91,7 @@ body {
 }
 .archive__item-title {
     font-size: 1.1em;
+   font-weight: 400;
     text-decoration: none !important;
     border-bottom: none !important;
     box-shadow: none !important;
