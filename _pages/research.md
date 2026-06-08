@@ -39,7 +39,7 @@ feature_row:
 
 ---
 
-<h1 style="color:#003366;">
+<h1 style="color: #003366;">
     Research Overview
 </h1>
 
