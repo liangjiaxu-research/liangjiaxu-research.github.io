@@ -165,6 +165,17 @@ body {
     transition: 0.2s ease-in-out;
 }
 
+/* TEST */
+.page__content a {
+    display: inline-block;
+    transition: all 0.2s ease;
+}
+
+.page__content a:hover {
+    color: #003366 !important;
+    transform: translateY(-8px);
+}
+
 /* 页脚设置 */
 .page__footer {
     position: static !important;
@@ -197,19 +208,5 @@ body {
     border: none !important;
 }
 
-/* TEST */
-body {
-    outline: 10px solid red !important;
-}
 
-.page__content a {
-    display: inline-block;
-    transition: all 0.2s ease;
-}
-
-.page__content a:hover {
-    color: red !important;
-    background: yellow !important;
-    transform: translateY(-3px);
-}
 
