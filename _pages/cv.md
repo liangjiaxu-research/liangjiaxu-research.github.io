@@ -10,34 +10,6 @@ redirect_from:
 {% include base_path %}
 
 ---
-
-## Education
-
-<table class="cv-table">
-<tr>
-<td style="border:none; width:20%; vertical-align:top;">09.2014–12.2017</td>
-<td style="border:none;">
-National Center for Nanoscience and Technology (NCNST), Beijing, China<br>
-Ph.D. in Physical Chemistry
-</td>
-</tr>
-
-<tr>
-<td style="border:none; vertical-align:top;">09.2009–03.2012</td>
-<td style="border:none;">
-Beijing Institute of Technology (BIT), Beijing, China<br>
-M.Sc. in Physical Chemistry of Materials
-</td>
-</tr>
-
-<tr>
-<td style="border:none; vertical-align:top;">09.2004–06.2008</td>
-<td style="border:none;">
-Beijing Institute of Technology (BIT), Beijing, China<br>
-B.Eng. in Polymer Science and Engineering
-</td>
-</tr>
-</table>
   
 ## Work and research experience
 
@@ -75,6 +47,33 @@ Volunteer Tutor (Gap Year)
 </tr>
 </table>
 
+## Education
+
+<table class="cv-table">
+<tr>
+<td style="border:none; width:20%; vertical-align:top;">09.2014–12.2017</td>
+<td style="border:none;">
+National Center for Nanoscience and Technology (NCNST), Beijing, China<br>
+Ph.D. in Physical Chemistry
+</td>
+</tr>
+
+<tr>
+<td style="border:none; vertical-align:top;">09.2009–03.2012</td>
+<td style="border:none;">
+Beijing Institute of Technology (BIT), Beijing, China<br>
+M.Sc. in Physical Chemistry of Materials
+</td>
+</tr>
+
+<tr>
+<td style="border:none; vertical-align:top;">09.2004–06.2008</td>
+<td style="border:none;">
+Beijing Institute of Technology (BIT), Beijing, China<br>
+B.Eng. in Polymer Science and Engineering
+</td>
+</tr>
+</table>
 
 ## Contact
 
