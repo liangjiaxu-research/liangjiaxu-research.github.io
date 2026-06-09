@@ -208,3 +208,14 @@ body {
     outline: 10px solid red !important;
 }
 
+.page__content a {
+    display: inline-block;
+    transition: all 0.2s ease;
+}
+
+.page__content a:hover {
+    color: red !important;
+    background: yellow !important;
+    transform: translateY(-3px);
+}
+
