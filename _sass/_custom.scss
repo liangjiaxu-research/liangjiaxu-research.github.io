@@ -78,13 +78,18 @@ body {
     box-shadow: 0 8px 24px rgba(0,0,0,0.15);
 }
 .card-link {
-    text-decoration: none;
+    text-decoration: none !important;
     color: inherit;
 }
+
 .featured-card h3 {
     text-align: center;
-    text-decoration: none !important;
-    border-bottom: none !important;
+    margin: 12px 15px 8px;
+}
+.featured-card p {
+    margin: 0 15px 15px;
+    text-align: center;
+    font-size: 0.95rem;
 }
 
 
