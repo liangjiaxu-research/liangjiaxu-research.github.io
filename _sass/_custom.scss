@@ -82,9 +82,12 @@ body {
     text-decoration: none !important;
     color: inherit;
 }
-.card-link,
-.card-link:visited {
-    text-decoration: none !important;
+.card-link h3 {
+    text-decoration: none;
+    transition: color 0.2s ease;
+}
+.card-link:hover h3 {
+    text-decoration: underline;
 }
 
 .featured-card h3 {
@@ -93,7 +96,7 @@ body {
 }
 .featured-card p {
     margin: 0 5px 5px;
-    text-align: center;
+    font-size: 0.95rem;
 }
 
 
