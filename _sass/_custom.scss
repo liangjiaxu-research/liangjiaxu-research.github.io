@@ -166,9 +166,17 @@ body {
     transition: 0.2s ease-in-out;
 }
 
+.page__content a {
+    display: inline-block;
+    transition: all 0.2s ease;
+}
 .page__content a:hover {
     color: #003366 !important;
     transform: translateY(-8px);
+}
+.archive--nosidebar a {
+    display: inline-block;
+    transition: all 0.2s ease;
 }
 .archive--nosidebar a:hover {
     color: #003366 !important;
