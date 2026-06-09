@@ -38,7 +38,7 @@ body {
     display: flex;
     align-items: center;
     gap: 1rem;
-    margin-top: 0.5rem
+    margin-top: 0.5rem;
 }
 .carousel-btn {
     border: none;
@@ -83,7 +83,6 @@ body {
     color: inherit;
 }
 .card-link,
-.card-link:hover,
 .card-link:visited {
     text-decoration: none !important;
 }
@@ -93,9 +92,8 @@ body {
     margin: 12px 15px 8px;
 }
 .featured-card p {
-    margin: 0 15px 15px;
+    margin: 0 5px 5px;
     text-align: center;
-    font-size: 0.95rem;
 }
 
 
