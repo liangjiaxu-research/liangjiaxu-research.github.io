@@ -168,8 +168,13 @@ body {
 
 .page__content a:hover {
     color: #003366 !important;
-    transform: translateY(-2px);
+    transform: translateY(-8px);
 }
+.archive--nosidebar a:hover {
+    color: #003366 !important;
+    transform: translateY(-8px);
+}
+
 
 /* 页脚设置 */
 .page__footer {
