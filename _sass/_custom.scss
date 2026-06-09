@@ -132,6 +132,7 @@ body {
     padding-top: 8px !important;
     padding-bottom: 4px !important;
 }
+
 /* 导航栏设置-菜单设置-logo位置 */
 .masthead__menu-item--lg {
     margin-right: 60px;
@@ -164,13 +165,6 @@ body {
     background: #CAEEFB;
     transition: 0.2s ease-in-out;
 }
-
-/* comment */
-.page__content a {
-    display: inline-block;
-    transition: all 0.2s ease;
-}
-/* endcomment */
 
 .page__content a:hover {
     color: #003366 !important;
