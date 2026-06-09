@@ -89,7 +89,6 @@ body {
 .card-link:hover h3 {
     text-decoration: underline;
 }
-
 .featured-card h3 {
     text-align: center;
     margin: 12px 15px 8px;
@@ -151,7 +150,7 @@ body {
 }
 
 /* 导航栏设置-菜单设置-logo位置 */
-.masthead__menu-item--lg.persist.selected {
+.masthead__menu-item--lg.persist {
     margin-left: 60px;
 }
 .site-logo {
