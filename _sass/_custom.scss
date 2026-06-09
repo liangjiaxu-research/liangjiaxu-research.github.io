@@ -132,7 +132,10 @@ body {
     padding-top: 8px !important;
     padding-bottom: 4px !important;
 }
-
+/* 导航栏设置-菜单设置-logo位置 */
+.masthead__menu-item--lg {
+    padding-right: 60px;
+}
 .site-logo {
     display: flex;
     align-items: center;
@@ -142,7 +145,7 @@ body {
     width: auto;
     object-fit: cover;
     margin-right: 5px;
-    margin-left: 60px;
+    margin-left: 0;
 }
 
 /* 导航栏设置-菜单设置-点击效果 */
