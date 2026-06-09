@@ -168,8 +168,8 @@ body {
 }
 
 .archive--nosidebar a:hover {
-    color: #003366;
-    transform: translateY(-8px);
+    color: #003366 !important;
+    transform: translateY(-8px) !important;
 }
 
 /* 页脚设置 */
