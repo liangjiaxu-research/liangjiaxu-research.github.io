@@ -95,7 +95,7 @@ body {
     margin: 12px 15px 8px;
 }
 .featured-card p {
-    margin: 0 5px 5px;
+    margin: 0 15px 15px;
     font-size: 0.95rem;
 }
 
@@ -151,7 +151,7 @@ body {
 }
 
 /* 导航栏设置-菜单设置-logo位置 */
-.masthead__menu-item--lg {
+.masthead__menu-item--lg.persist.selected {
     margin-left: 60px;
 }
 .site-logo {
