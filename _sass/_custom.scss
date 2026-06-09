@@ -162,6 +162,11 @@ body {
     transition: 0.2s ease-in-out;
 }
 
+.page__content a:hover {
+    color: #003366;
+    transform: translateY(-8px);
+}
+
 /* 页脚设置 */
 .page__footer {
     position: static !important;
