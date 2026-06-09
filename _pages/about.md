@@ -38,9 +38,9 @@ My research focuses on Carbon Chemistry at Extreme Conditions.
         target="_blank" 
         class="card-link">        
         <img src="/images/Nature2026.jpg">
-        <h3>Nature 2026</h3>
+          <h3>Nature 2026</h3>
      </a>
-        <p>Description...</p>  
+          <p>Description...</p>  
     </div>
 
 
