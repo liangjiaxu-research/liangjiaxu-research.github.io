@@ -11,9 +11,8 @@ body {
 }
 
 #main {
-    width: 100% !important;
-    padding-left: 2rem;
-    padding-right: 2rem;
+    padding-left: clamp(20px, 4vw, 60px);
+    padding-right: clamp(20px, 4vw, 60px);
     padding-bottom: 2rem;
 }
 
