@@ -18,8 +18,8 @@ body {
 
 /* 去除Sidebar空间 */
 .archive--nosidebar {
-    width: 100% !important;
-    margin-left: 0 !important;
+    max-width: 1280px;
+    margin: 0 auto;
     padding-left: 28px !important;
     padding-right: 28px !important;
 }
