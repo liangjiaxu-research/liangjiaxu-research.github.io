@@ -16,9 +16,11 @@ Jiaxu Liang is currently a postdoctoral researcher at Goethe University Frankfur
 Jiaxu received his Ph.D. from the National Center for Nanoscience and Technology (NCNST), Chinese Academy of Sciences (CAS), where he worked on the synthesis and applications of carbon-rich nanomaterials. He subsequently joined the Max Planck Institute for Polymer Research in Mainz, Germany, as a postdoctoral researcher. There, his research focused on the synthesis of nanodiamonds under high-pressure and high-temperature (HPHT) conditions. He participated in several interdisciplinary research initiatives, including the ERC-funded BioQ project and the European Horizon 2020 Hyperdiamond project, which aimed to develop diamond-based quantum technologies for advanced molecular imaging and magnetic resonance applications.
 
 His research interests are broadly centered on Carbon Chemistry at Extreme Conditions, with particular emphasis on the synthesis, transformation, and characterization of carbon-based materials at high pressures. Research areas include Synthesis of Functionalized Diamonds, Synthesis and Application of Carbon Nanostructures, and Carbon Structures at Extreme Conditions beyond HPHT.
+
 Before embarking on his academic career, Jiaxu worked in the building materials industry, producing high-purity quartz glass. Interestingly, although his research is driven by scientific curiosity rather than aesthetics, it has led him to study a remarkable range of materials commonly associated with jewelry, including quartz crystals, diamonds, and gemstones.
  
-#Curriculum Vitae
+
+# Curriculum Vitae
 ---
 
 ## Work and research experience
