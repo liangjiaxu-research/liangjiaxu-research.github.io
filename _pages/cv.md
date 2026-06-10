@@ -22,7 +22,6 @@ Before embarking on his academic career, Jiaxu worked in the building materials 
 
 # Curriculum Vitae
 ---
-
 ## Work and research experience
 
 <table class="cv-table">
