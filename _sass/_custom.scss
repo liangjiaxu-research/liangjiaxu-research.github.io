@@ -28,12 +28,19 @@ body {
 .page__hero--overlay {
     display: flex;
     max-width: 100%;
-    min-height: 60vh;
     align-items: center;
     padding-top: 80px;
 }
 .page__hero--overlay .page__title {
     display: none;
+}
+
+.home-hero .page__hero--overlay {
+    min-height: 60vh;
+}
+
+.research-hero .page__hero--overlay {
+    min-height: 25vh;
 }
 
 /* HOME页卡片设置 */
