@@ -31,11 +31,11 @@ body {
     align-items: center;
     padding-top: 80px;
 }
-.page__hero--overlay .page__title {
+.page__hero--overlay.page__title {
     display: none;
 }
 
-.page__hero--overlay .home-hero {
+.page__hero--overlay.home-hero {
     min-height: 60vh;
 }
 
