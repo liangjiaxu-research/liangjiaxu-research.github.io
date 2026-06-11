@@ -5,7 +5,7 @@ permalink: /
 title: "Carbon Chemistry at Extreme Conditions"
 
 header:
-  overlay_image: home-banner.jpg
+  overlay_image: banner-home.jpg
   overlay_filter: 0.55
   caption: "DAC in-situ Raman system"
 
