@@ -10,7 +10,7 @@ header:
   caption: "AI-generated conceptual illustration"
 
 author_profile: false
-classes: wide
+classes: home-hero
 
 ---
 
