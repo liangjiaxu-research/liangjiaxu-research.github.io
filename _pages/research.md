@@ -6,7 +6,7 @@ permalink: /research/
 author_profile: false
 
 header:
-  overlay_image: /images/banner-research.jpg
+  overlay_image: banner-research.jpg
   overlay_filter: 0.4
   caption: "Fieldwork in mountainous landscapes"
 
