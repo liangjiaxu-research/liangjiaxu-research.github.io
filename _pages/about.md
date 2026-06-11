@@ -6,7 +6,7 @@ title: "Carbon Chemistry at Extreme Conditions"
 
 header:
   overlay_image: banner-home.jpg
-  overlay_filter: 0.55
+  overlay_filter: 0.1
   caption: "AI-generated conceptual illustration"
 
 author_profile: false
