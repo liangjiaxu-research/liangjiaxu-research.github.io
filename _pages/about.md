@@ -3,14 +3,13 @@
 layout: splash
 permalink: /
 title: "Carbon Chemistry at Extreme Conditions"
+author_profile: false
+classes: home-hero
 
 header:
   overlay_image: banner-home.jpg
   overlay_filter: 0.1
   caption: "AI-generated conceptual illustration"
-
-author_profile: false
-classes: home-hero
 
 ---
 
