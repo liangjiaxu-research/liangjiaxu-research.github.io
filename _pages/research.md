@@ -8,7 +8,7 @@ author_profile: false
 header:
   overlay_image: banner-research.jpg
   overlay_filter: 0.4
-  caption: "Fieldwork in mountainous landscapes"
+  caption: "DAC in-situ Raman system"
 
 feature_row:
 
