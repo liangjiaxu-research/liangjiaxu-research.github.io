@@ -4,6 +4,7 @@ layout: splash
 title: "Research"
 permalink: /research/
 author_profile: false
+classes: research-hero
 
 header:
   overlay_image: banner-research.jpg
