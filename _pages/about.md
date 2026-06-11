@@ -4,7 +4,7 @@ layout: splash
 permalink: /
 title: "Carbon Chemistry at Extreme Conditions"
 author_profile: false
-hero_classes: home-hero
+hero_class: home-hero
 
 header:
   overlay_image: banner-home.jpg
