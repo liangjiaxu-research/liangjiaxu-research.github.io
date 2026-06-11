@@ -43,7 +43,7 @@ feature_row:
     Research Overview
 </h1>
 
-Carbon exhibits an extraordinary diversity of structures and properties, ranging from graphite to diamond and other metastable phases. My research aims to understand and control carbon transformations under extreme conditions by discovering the fundamental mechanisms governing the transition from sp²- to sp³-bonded carbon.
+Carbon exhibits an extraordinary diversity of structures and properties, ranging from graphite to diamond and other metastable phases. Understanding and controlling carbon structures at the atomic scale is crucial for emerging technologies ranging from quantum sensing and quantum information processing to advanced electronics and biomedical imaging. My research aims to understand and control carbon transformations under extreme conditions by discovering the fundamental mechanisms governing the transition from sp²- to sp³-bonded carbon.
 
 A central theme of my work is the use of structurally defined molecular carbon precursors, including nanographenes,  conjugated microporous polymers and diamondoid molecules to achieve precise control over diamond formation at the nanoscale. By combining organic synthesis with high-pressure and high-temperature techniques, I seek to establish structure–property relationships between precursor chemistry, phase-transition pathways, and the resulting diamond structures.
 
