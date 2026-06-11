@@ -32,6 +32,9 @@ body {
     max-width: 100%;
     padding-top: 80px;
 }
+.layout--splash .page__title {
+    display: none;
+}
 
 /* HOME页卡片设置 */
 .carousel-wrapper {
