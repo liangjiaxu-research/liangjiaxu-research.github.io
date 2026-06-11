@@ -7,7 +7,7 @@ title: "Carbon Chemistry at Extreme Conditions"
 header:
   overlay_image: banner-home.jpg
   overlay_filter: 0.55
-  caption: "DAC in-situ Raman system"
+  caption: "AI-generated conceptual illustration"
 
 author_profile: false
 classes: wide
