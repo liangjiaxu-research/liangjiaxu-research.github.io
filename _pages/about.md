@@ -39,7 +39,7 @@ My research focuses on Carbon Chemistry at Extreme Conditions.
         <img src="/images/Nature2026.jpg">
         <h3>Nature (2026)</h3>
      </a>
-          <p>Description...</p>  
+          <p>More...</p>  
     </div>
 
 
@@ -50,7 +50,7 @@ My research focuses on Carbon Chemistry at Extreme Conditions.
         <img src="/images/AngewChemIntEd2025.jpg">
         <h3>Angew. Chem. Int. Ed. (2025)</h3>
      </a>
-        <p>Description...</p>  
+        <p>More...</p>  
     </div>
 
 
@@ -61,9 +61,7 @@ My research focuses on Carbon Chemistry at Extreme Conditions.
          <img src="/images/PhysRevResearch2026.jpg">
          <h3>Phys. Rev. Research (2026)</h3>
      </a>
-         <p>This work, entitled “Experimental platform for combining high pressure and swift heavy ion irradiations”, introduces a unique experimental platform that combines static pressure with swift heavy ion irradiation, enabling the study of materials under two extreme conditions simultaneously. A key innovation of the setup is its capability for real-time, in situ monitoring. By combining online optical microscopy and Raman spectroscopy with precise beam control and automated fluence management, researchers can directly observe how materials evolve during irradiation. The platform allows stepwise irradiation experiments, making it possible to track phase transitions and structural modifications as a function of accumulated radiation dose.
-Commissioning experiments have already demonstrated the versatility of the facility across a broad range of material classes. This state-of-the-art facility, developed at the GSI Helmholtz Centre for Heavy Ion Research (Germany), is now available to the international scientific community and opens new avenues for investigating phase transformations, defect formation, and radiation-driven phenomena in condensed matter, materials science, geoscience, and planetary science.
-</p>  
+         <p>More...</p>  
     </div>
 
 
@@ -74,7 +72,7 @@ Commissioning experiments have already demonstrated the versatility of the facil
         <img src="/images/DiamRelatMater2020.jpg">
         <h3>Diam. Relat. Mater (2020)</h3>
      </a>
-         <p>Description...</p>  
+         <p>More...</p>  
     </div>
 
   </div>
