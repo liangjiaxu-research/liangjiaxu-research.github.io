@@ -1,7 +1,7 @@
 ---
 layout: archive
 title: "About me"
-permalink: /about_jiaxuliang/
+permalink: /cv/
 author_profile: true
 redirect_from:
   - /resume
