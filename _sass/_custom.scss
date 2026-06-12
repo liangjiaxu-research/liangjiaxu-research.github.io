@@ -34,11 +34,12 @@ body {
 .page__hero--overlay.home-hero .page__title {
     display: none;
 }
-
+.page__hero--overlay.research-hero .page__title {
+    display: none;
+}
 .page__hero--overlay.home-hero {
     min-height: 60vh;
 }
-
 .page__hero--overlay.research-hero {
     min-height: 20vh;
 }
