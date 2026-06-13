@@ -2,7 +2,7 @@
 
 layout: splash
 permalink: /
-title: "Carbon Chemistry at Extreme Conditions_Jiaxu Liang Group"
+title: "Carbon Chemistry at Extreme Conditions | Jiaxu Liang"
 author_profile: false
 hero_class: home-hero
 
