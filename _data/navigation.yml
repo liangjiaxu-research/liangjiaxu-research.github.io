@@ -17,14 +17,14 @@ main:
   - title: "Publications"
     url: /publications/
 
+  - title: "News"
+    url: /talks/    
+
  # - title: "Projects"
  #   url: /portfolio/
 
  # - title: "Collaborators"
  #   url: /teaching/    
-
- # - title: "News"
- #   url: /talks/    
 
  # - title: "CV"
  #   url: /cv-json/
