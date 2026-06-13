@@ -50,11 +50,12 @@ My research focuses on Carbon Chemistry at Extreme Conditions.
         <img src="/images/AngewChemIntEd2025.jpg">
         <h3>Angew. Chem. Int. Ed. (2025)</h3>
      </a>
-     <a href="https://liangjiaxu.com/news/helical-molecular-springs-high-pressure" 
+     <p>
+        <a href="https://liangjiaxu.com/news/helical-molecular-springs-high-pressure" 
         target="_blank" 
-        <p>What happens when molecular springs are compressed?</p>  
-     </a>
-        
+        What happens when molecular springs are compressed?  
+        </a>
+     </p>   
     </div>
 
 
