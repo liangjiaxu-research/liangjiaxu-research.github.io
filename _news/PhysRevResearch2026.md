@@ -6,7 +6,7 @@ permalink: /news/Experimental-platform-high-pressure-swift-heavy-ion-irradiation
 venue: "Experimental platform for combining high pressure and swift heavy ion irradiations"
 date: 2026-04-10
 location: "Phys. Rev. Research 8, 023054"
-excerpt: >
+excerpt:
 ---
 
 This work, entitled “Experimental platform for combining high pressure and swift heavy ion irradiations”, introduces a unique experimental platform that combines static pressure with swift heavy ion irradiation, enabling the study of materials under two extreme conditions simultaneously. A key innovation of the setup is its capability for real-time, in situ monitoring. By combining online optical microscopy and Raman spectroscopy with precise beam control and automated fluence management, researchers can directly observe how materials evolve during irradiation. The platform allows stepwise irradiation experiments, making it possible to track phase transitions and structural modifications as a function of accumulated radiation dose.
