@@ -6,7 +6,7 @@ permalink: /news/helical-molecular-springs-high-pressure
 venue: "Fluorescence of helical molecular springs under high pressure"
 date: 2025-03-10
 location: "Angew. Chem. Int. Ed., 2025, 64, e202500923"
-excerpt: >
+excerpt: 
 ---
 
 Helicenes are fascinating helical molecules whose twisted structures resemble tiny springs. Although they have long been considered promising building blocks for molecular machines, little is known about how their properties change when they are mechanically compressed.
