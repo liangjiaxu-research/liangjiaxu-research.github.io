@@ -23,8 +23,8 @@ main:
   - title: "Talks"
     url: /talks/    
 
-  - title: "Projects"
-    url: /portfolio/
+ # - title: "Projects"
+ #   url: /portfolio/
 
  # - title: "Collaborators"
  #   url: /teaching/    
