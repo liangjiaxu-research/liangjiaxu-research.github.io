@@ -4,7 +4,7 @@ collection: news
 type: "Featured Article"
 permalink: /news/helical-molecular-springs-high-pressure
 venue: "Fluorescence of helical molecular springs under high pressure"
-date: 2012-03-01
+date: 2025-03-10
 location: "Angew. Chem. Int. Ed., 2025, 64, e202500923"
 excerpt: >
 ---
