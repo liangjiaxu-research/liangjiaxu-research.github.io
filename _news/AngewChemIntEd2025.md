@@ -17,7 +17,7 @@ To understand the origin of this behavior, we combined high-pressure experiments
 
 These findings provide direct experimental evidence that helicenes can function as molecular springs and highlight how their unique helical architectures influence optical properties under mechanical stress. The work opens new opportunities for designing pressure-responsive materials, molecular sensors, and future nanoscale machines.
 
-**Reference:** [J. Liang et al., *Angew. Chem. Int. Ed.* **2025**, 64, e202500923.](https://doi.org/10.1002/anie.202500923)
+**Reference:** <a href="https://doi.org/10.1002/anie.202500923" target="_blank">J. Liang et al., *Angew. Chem. Int. Ed.* **2025**, 64, e202500923.</a>
 
 
 
