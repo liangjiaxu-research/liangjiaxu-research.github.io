@@ -52,7 +52,7 @@ My research focuses on Carbon Chemistry at Extreme Conditions.
      </a>
      <p>
         <a href="https://liangjiaxu.com/news/helical-molecular-springs-high-pressure" 
-        target="_blank" 
+        target="_blank"> 
         What happens when molecular springs are compressed?  
         </a>
      </p>   
