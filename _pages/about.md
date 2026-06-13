@@ -17,7 +17,7 @@ header:
     Welcome
 </h1>
 
-Welcome to my Research Website from <a href="https://www.geo.uni-frankfurt.de/59244748/AG_Winkler#a_29c0515d-6b7f6354" target="_blank">AG Winkler</a> at Goethe University Frankfurt. 
+Welcome to my Academic Website from <a href="https://www.geo.uni-frankfurt.de/59244748/AG_Winkler#a_29c0515d-6b7f6354" target="_blank">AG Winkler</a> at Goethe University Frankfurt. 
 
 My research focuses on Carbon Chemistry at Extreme Conditions.
 
