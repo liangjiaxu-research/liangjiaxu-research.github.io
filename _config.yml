@@ -293,6 +293,14 @@ defaults:
       layout: talk
       author_profile: false
       share: true
+  # _news
+  - scope:
+      path: ""
+      type: news
+    values:
+      layout: news
+      author_profile: false
+      share: true
 
 
 # Sass/SCSS
