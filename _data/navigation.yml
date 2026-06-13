@@ -20,17 +20,17 @@ main:
   - title: "News"
     url: /talks/    
 
- # - title: "Projects"
- #   url: /portfolio/
+  - title: "Projects"
+    url: /portfolio/
 
- # - title: "Collaborators"
- #   url: /teaching/    
-
- # - title: "CV"
- #   url: /cv-json/
+  - title: "Collaborators"
+    url: /teaching/    
         
- # - title: "Blog Posts"
- #   url: /year-archive/
+  - title: "Blog Posts"
+    url: /year-archive/
 
  # - title: "Guide"
  #   url: /markdown/
+
+ # - title: "CV"
+ #   url: /cv-json/
