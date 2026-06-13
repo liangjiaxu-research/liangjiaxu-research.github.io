@@ -233,7 +233,7 @@ collections:
   talks:
     output: true
     permalink: /:collection/:path/
- news:
+  news:
     output: true
     permalink: /:collection/:path/
 
