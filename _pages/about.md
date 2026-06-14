@@ -40,10 +40,10 @@ My research focuses on Carbon Chemistry at Extreme Conditions.
         <h3>Nature (2026)</h3>
      </a>
      <p>
-         <a href="https://liangjiaxu.com/news/bottom-up-synthesis-of-molecular-nanodiamond-from-nanographene" 
-            target="_blank"> 
-         A Molecular Route from Nanographene to Nanodiamonds
-     
+        <a href="https://liangjiaxu.com/news/bottom-up-synthesis-of-molecular-nanodiamond-from-nanographene" 
+           target="_blank"> 
+         A Molecular Route from Nanographene to Nanodiamonds     
+        </a>
      </p>  
     </div>
 
