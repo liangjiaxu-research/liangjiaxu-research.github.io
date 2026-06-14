@@ -2,7 +2,7 @@
 title: "Launching liangjiaxu.com: A Home for My Scientific Journey"
 collection: news
 type: "Post"
-permalink: /news/Launching-liangjiaxu-website
+permalink: /news/launching-liangjiaxu-website
 venue: ""
 date: 2026-06-14
 location: ""
