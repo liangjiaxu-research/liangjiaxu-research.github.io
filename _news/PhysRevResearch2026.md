@@ -13,6 +13,8 @@ This work introduces a unique experimental platform that combines static pressur
 
 Commissioning experiments have already demonstrated the versatility of the facility across a broad range of material classes. This state-of-the-art facility, developed at the GSI Helmholtz Centre for Heavy Ion Research (Germany), is now available to the international scientific community and opens new avenues for investigating phase transformations, defect formation, and radiation-driven phenomena in condensed matter, materials science, geoscience, and planetary science.
 
-**Reference:** <a href="https://doi.org/10.1103/q8w6-wttf" target="_blank">I. Tzifas et al., *Phys. Rev. Research* **2026**, 8, 023054.</a>
-               <a href="https://doi.org/10.1039/D6CP00307A" target="_blank">J. Liang et al., *Phys. Chem. Chem. Phys.* **2026**, 28, 7835.</a> 
+**Reference:** 
+
+<a href="https://doi.org/10.1103/q8w6-wttf" target="_blank">I. Tzifas et al., *Phys. Rev. Research* **2026**, 8, 023054.</a>
+<a href="https://doi.org/10.1039/D6CP00307A" target="_blank">J. Liang et al., *Phys. Chem. Chem. Phys.* **2026**, 28, 7835.</a> 
             
