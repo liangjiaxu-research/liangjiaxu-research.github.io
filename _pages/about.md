@@ -39,7 +39,12 @@ My research focuses on Carbon Chemistry at Extreme Conditions.
         <img src="/images/Nature2026.jpg">
         <h3>Nature (2026)</h3>
      </a>
-          <p>More...</p>  
+     <p>
+         <a href="https://liangjiaxu.com/news/bottom-up-synthesis-of-molecular-nanodiamond-from-nanographene" 
+            target="_blank"> 
+         A Molecular Route from Nanographene to Nanodiamonds
+     
+     </p>  
     </div>
 
 
@@ -52,7 +57,7 @@ My research focuses on Carbon Chemistry at Extreme Conditions.
      </a>
      <p>
         <a href="https://liangjiaxu.com/news/helical-molecular-springs-high-pressure" 
-        target="_blank"> 
+           target="_blank"> 
         What happens when molecular springs are compressed?  
         </a>
      </p>   
@@ -68,7 +73,7 @@ My research focuses on Carbon Chemistry at Extreme Conditions.
      </a>
      <p>
         <a href="https://liangjiaxu.com/news/Experimental-platform-high-pressure-swift-heavy-ion-irradiations" 
-        target="_blank"> 
+           target="_blank"> 
         A world-unique platform is built to combine high pressure and swift heavy ion irradiation 
         </a>
       </p>  
