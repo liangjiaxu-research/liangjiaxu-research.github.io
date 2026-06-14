@@ -5,7 +5,7 @@ type: "Featured Articles"
 permalink: /news/bottom-up-synthesis-of-molecular-nanodiamond-from-nanographene
 venue: "Bottom-Up Synthesis of Molecular Nanodiamond from Nanographene"
 date: 2026-05-26
-location: "Nature, 2026."
+location: "Nature 2026."
 excerpt: 
 ---
 
