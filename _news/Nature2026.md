@@ -1,11 +1,11 @@
 ---
-title: "What happens when molecular springs are compressed?"
+title: "A Molecular Route from Nanographene to Nanodiamonds"
 collection: news
 type: "Featured Articles"
-permalink: /news/helical-molecular-springs-high-pressure
-venue: "Fluorescence of helical molecular springs under high pressure"
-date: 2025-03-10
-location: "Angew. Chem. Int. Ed., 2025, 64, e202500923"
+permalink: /news/bottom-up-synthesis-of-molecular-nanodiamond-from-nanographene
+venue: "Bottom-Up Synthesis of Molecular Nanodiamond from Nanographene"
+date: 2026-05-26
+location: "Nature, 2026."
 excerpt: 
 ---
 
