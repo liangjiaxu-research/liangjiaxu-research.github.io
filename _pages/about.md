@@ -71,6 +71,7 @@ My research focuses on Carbon Chemistry at Extreme Conditions.
         target="_blank"> 
         A world-unique platform is built to combine high pressure and swift heavy ion irradiation 
         </a>
+      </p>  
     </div>
 
 
