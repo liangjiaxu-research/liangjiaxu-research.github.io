@@ -1,7 +1,7 @@
 ---
 title: "A world-unique platform is built to combine high pressure and swift heavy ion irradiation"
 collection: news
-type: "Featured Article"
+type: "Featured Articles"
 permalink: /news/Experimental-platform-high-pressure-swift-heavy-ion-irradiations
 venue: "Experimental platform for combining high pressure and swift heavy ion irradiations"
 date: 2026-04-10
