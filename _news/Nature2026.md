@@ -15,6 +15,6 @@ In our recent work published in *Nature*, we demonstrate a bottom-up strategy fo
 
 This work establishes a general principle for precise synthesis of nanodiamonds through molecular design. The ability to control crystal size, surface structure, and embedded quantum emitters directly from molecular building blocks opens exciting opportunities for next-generation quantum technologies, nanoscale sensing, and advanced carbon-based materials.
 
-**Reference:** <a href="https://doi.org/10.1038/s41586-026-10669-3" target="_blank">J. Liang et al., *Nature*, **2026**.</a>
+**Reference:** <a href="https://doi.org/10.1038/s41586-026-10669-3" target="_blank">J. Liang et al., *Nature* **2026**.</a>
 
 
