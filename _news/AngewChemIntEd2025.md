@@ -1,7 +1,7 @@
 ---
 title: "What happens when molecular springs are compressed?"
 collection: news
-type: "Featured Article"
+type: "Featured Articles"
 permalink: /news/helical-molecular-springs-high-pressure
 venue: "Fluorescence of helical molecular springs under high pressure"
 date: 2025-03-10
