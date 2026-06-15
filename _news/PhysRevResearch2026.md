@@ -13,7 +13,7 @@ This work introduces a unique experimental platform that combines static pressur
 
 <figure>
   <img src="{{ site.baseurl }}/images/news/PhysRevResearch2026-figure.jpg" width="600">
-  <figcaption>(a) Large-scale accelerator facility at the GSI Helmholtz Center for Heavy Ion Research in Darmstadt, Germany. (b) Scheme (not to scale) and (b) photo of the high-pressure irradiation platform in Cave A.</figcaption>
+  <figcaption>(a) Large-scale accelerator facility at the GSI Helmholtz Center for Heavy Ion Research in Darmstadt, Germany. (b) Scheme (not to scale) and (c) photo of the high-pressure irradiation platform in Cave A.</figcaption>
 </figure>
 
 Commissioning experiments have already demonstrated the versatility of the facility across a broad range of material classes. This state-of-the-art facility, developed at the GSI Helmholtz Centre for Heavy Ion Research (Germany), is now available to the international scientific community and opens new avenues for investigating phase transformations, defect formation, and radiation-driven phenomena in condensed matter, materials science, geoscience, and planetary science.
