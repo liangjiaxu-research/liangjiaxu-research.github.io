@@ -13,7 +13,7 @@ Nanodiamonds are emerging materials for quantum sensing, bioimaging, single-phot
 
 <figure>
   <img src="{{ site.baseurl }}/images/news/Nature2026-figure.jpg" width="600">
-  <figcaption> </figcaption>
+  <figcaption>Nanodiamond synthesis from molecular nanographene </figcaption>
 </figure>
 
 In our recent work entitled *Bottom-Up Synthesis of Molecular Nanodiamond from Nanographene* published in *Nature*, we demonstrate a bottom-up strategy for nanodiamond synthesis using an atomically defined nanographene. By subjecting hydrogen-terminated nanographene molecules to high-pressure and high-temperature conditions, we achieve monodisperse molecular nanodiamonds with diameters of only 3–4 nm. Importantly, the platform also enables the direct incorporation of quantum defects during synthesis. By introducing silicon- or germanium-containing molecular dopants, we achieved one-step synthesis of fluorescent nanodiamonds hosting SiV⁻ and GeV⁻ color centers, without ion implantation or post-synthetic annealing. These color centers are highly attractive for quantum sensing, photonics, and bioimaging applications.
