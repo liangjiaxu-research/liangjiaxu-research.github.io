@@ -11,9 +11,9 @@ excerpt:
 
 I am excited to launch my personal website: <a href="https://liangjiaxu.com" target="_blank">**liangjiaxu.com**</a>
 
-AI made it possible for me to create this platform despite having little prior experience in web development. While many sections are still under construction, the site will continue to grow with new content and updates.
+Thanks to the AI tools, I am able to create this platform despite having little prior experience in web development. While many sections are still under construction, the site will continue to grow with new content and updates.
 
-It will serve as a window into my scientific interests, ongoing projects and academic activities. I hope this platform will foster communication and collaboration. If you are interested in my work or potential collaborations, I would be happy to hear from you.
+It will serve as a window into my scientific interests, ongoing projects, and academic activities. I hope this platform will foster communication and collaboration. If you are interested in my work or potential collaborations, I would be happy to hear from you.
 
 Thank you for visiting, and please check back regularly for future updates.
 
