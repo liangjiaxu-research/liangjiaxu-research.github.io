@@ -15,7 +15,7 @@ In a recent study published in *Angewandte Chemie International Edition*, we inv
 
 <figure>
   <img src="{{ site.baseurl }}/images/news/AngewChemIntEd2025-figure.jpg" width="600">
-  <figcaption> </figcaption>
+  <figcaption>Fluorescence responses of different helicenes to increased pressure</figcaption>
 </figure>
 
 To understand the origin of this behavior, we combined high-pressure experiments with theoretical calculations. The results revealed that compression reduces the distance between overlapping aromatic rings within the helicene structure, enhancing intramolecular π–π interactions. Because **[9]** possesses a larger overlap region, its electronic structure is more sensitive to pressure, leading to larger fluorescence changes.
