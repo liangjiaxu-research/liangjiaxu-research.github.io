@@ -18,7 +18,7 @@ In a recent study published in *Angewandte Chemie International Edition*, we inv
   <figcaption> </figcaption>
 </figure>
 
-To understand the origin of this behavior, we combined high-pressure experiments with theoretical calculations. The results revealed that compression reduces the distance between overlapping aromatic rings within the helicene structure, enhancing intramolecular π–π interactions. Because [9] possesses a larger overlap region, its electronic structure is more sensitive to pressure, leading to larger fluorescence changes.
+To understand the origin of this behavior, we combined high-pressure experiments with theoretical calculations. The results revealed that compression reduces the distance between overlapping aromatic rings within the helicene structure, enhancing intramolecular π–π interactions. Because **[9]** possesses a larger overlap region, its electronic structure is more sensitive to pressure, leading to larger fluorescence changes.
 
 These findings provide direct experimental evidence that helicenes can function as molecular springs and highlight how their unique helical architectures influence optical properties under mechanical stress. The work opens new opportunities for designing pressure-responsive materials, molecular sensors, and future nanoscale machines.
 
