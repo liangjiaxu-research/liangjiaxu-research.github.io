@@ -11,6 +11,11 @@ excerpt: This work introduces a unique experimental platform that combines stati
 
 This work introduces a unique experimental platform that combines static pressure with swift heavy ion irradiation, enabling the study of materials under two extreme conditions simultaneously. A key innovation of the setup is its capability for real-time, in situ monitoring. By combining online optical microscopy and Raman spectroscopy with precise beam control and automated fluence management, researchers can directly observe how materials evolve during irradiation. The platform allows stepwise irradiation experiments, making it possible to track phase transitions and structural modifications as a function of accumulated radiation dose.
 
+<figure>
+  <img src="{{ site.baseurl }}/images/bio-photo.jpg" width="600">
+  <figcaption>Figure 1. Example image.</figcaption>
+</figure>
+
 Commissioning experiments have already demonstrated the versatility of the facility across a broad range of material classes. This state-of-the-art facility, developed at the GSI Helmholtz Centre for Heavy Ion Research (Germany), is now available to the international scientific community and opens new avenues for investigating phase transformations, defect formation, and radiation-driven phenomena in condensed matter, materials science, geoscience, and planetary science.
 
 **Reference:** 
