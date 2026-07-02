@@ -1,5 +1,5 @@
 ---
-title: "Launching liangjiaxu.com: A Home for My Scientific Journey"
+title: "Launching liangjiaxu.com: A Home for My Academic Journey"
 collection: news
 type: "Post"
 permalink: /news/launching-liangjiaxu-website
