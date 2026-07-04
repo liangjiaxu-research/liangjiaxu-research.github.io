@@ -74,7 +74,7 @@ My research focuses on Carbon Chemistry at Extreme Conditions.
      <p>
         <a href="https://liangjiaxu.com/news/Experimental-platform-high-pressure-swift-heavy-ion-irradiations" 
            target="_blank"> 
-        A world-unique platform is built to combine high pressure and swift heavy ion irradiation 
+        A world-unique platform combining high pressure and swift heavy ion irradiation 
         </a>
       </p>  
     </div>
