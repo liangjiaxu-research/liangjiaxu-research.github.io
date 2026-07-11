@@ -22,4 +22,12 @@ This work establishes a general principle for the precise synthesis of nanodiamo
 
 **Reference:** <a href="https://doi.org/10.1038/s41586-026-10669-3" target="_blank">J. Liang et al., *Nature* **2026**, 655, 102.</a>
 
+**Related Reports** 
+<a href="https://www.nature.com/articles/d41586-026-02001-w" target="_blank">Nanodiamonds made from tiny graphene triangles</a>
+
+<a href="https://phys.org/news/2026-06-route-tailor-diamond-nanoparticles-quantum.html" target="_blank">New route to tailor-made diamond nanoparticles holds promise for quantum applications</a>
+
+<a href="https://photon-science.desy.de/news__events/news__highlights/tiny_diamonds_gigantic_crusher/index_eng.html" target="_blank">Tiny diamonds, gigantic crusher</a>
+
+
 
