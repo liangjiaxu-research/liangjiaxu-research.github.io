@@ -77,15 +77,39 @@ body {
     align-items: center;
     gap: 0.5rem;
 }
+/* 左右切换按钮：白色圆底 + 主题深蓝箭头，悬停时反色 */
 .carousel-btn {
     flex: 0 0 auto;
-    border: none;
-    background: #f5f5f5;
+    display: flex;
+    align-items: center;
+    justify-content: center;
     width: 45px;
     height: 45px;
+    padding: 0;
+    border: 1px solid #d6dde6;
     border-radius: 50%;
+    background: #fff;
+    color: #003366;
+    font-size: 20px;
+    line-height: 1;
+    box-shadow: 0 2px 8px rgba(0, 51, 102, 0.12);
     cursor: pointer;
-    font-size: 24px;
+    transition: background 0.2s ease, color 0.2s ease,
+                border-color 0.2s ease, box-shadow 0.2s ease, transform 0.2s ease;
+}
+.carousel-btn:hover {
+    background: #003366;
+    border-color: #003366;
+    color: #fff;
+    box-shadow: 0 4px 14px rgba(0, 51, 102, 0.3);
+    transform: scale(1.06);
+}
+.carousel-btn:active {
+    transform: scale(0.96);
+}
+.carousel-btn:focus-visible {
+    outline: 2px solid #003366;
+    outline-offset: 3px;
 }
 /* 裁剪窗口：卡片在这里面滑动，上下留白避免悬停上浮和阴影被裁掉 */
 .featured-viewport {
