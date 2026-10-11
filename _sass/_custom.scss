@@ -78,6 +78,7 @@ body {
     gap: 0.5rem;
 }
 .carousel-btn {
+    flex: 0 0 auto;
     border: none;
     background: #f5f5f5;
     width: 45px;
@@ -86,25 +87,38 @@ body {
     cursor: pointer;
     font-size: 24px;
 }
+/* 裁剪窗口：卡片在这里面滑动，上下留白避免悬停上浮和阴影被裁掉 */
+.featured-viewport {
+    flex: 1;
+    min-width: 0;
+    overflow: hidden;
+    padding: 10px 0 26px;
+}
+/* 每屏显示的卡片数：大屏 3、中屏 2、小屏 1，卡片宽度按比例计算，任何浏览器/缩放下都是整数张 */
 .featured-grid {
+    --per-view: 3;
     display: flex;
     gap: 1rem;
-    overflow: hidden;
-    flex: 1;
     scroll-behavior: auto; 
     will-change: transform;
     transform: translateZ(0);
     transition: transform 0.4s cubic-bezier(0.4,0,0.2,1);
 }
 .featured-card {
-    flex: 0 0 340px;
+    flex: 0 0 calc((100% - (var(--per-view) - 1) * 1rem) / var(--per-view));
+    min-width: 0;
     border: 1px solid #ddd;
     border-radius: 10px;
     overflow: hidden;
     background: white;
     transition: transform 0.2s ease,
                 box-shadow 0.3s ease;
-    margin-top: 0.3rem !important;
+}
+@media (max-width: 900px) {
+    .featured-grid { --per-view: 2; }
+}
+@media (max-width: 600px) {
+    .featured-grid { --per-view: 1; }
 }
 .featured-card img {
     width: 100%;

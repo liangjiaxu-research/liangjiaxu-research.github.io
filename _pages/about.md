@@ -32,6 +32,7 @@ My research focuses on Carbon Chemistry at Extreme Conditions.
 
   <button class="carousel-btn prev">&#10094;</button>
 
+  <div class="featured-viewport">
   <div class="featured-grid" id="featuredGrid">
 
 
@@ -93,6 +94,7 @@ My research focuses on Carbon Chemistry at Extreme Conditions.
          <p>More...</p>  
     </div>
 
+  </div>
   </div>
 
   <button class="carousel-btn next">&#10095;</button>

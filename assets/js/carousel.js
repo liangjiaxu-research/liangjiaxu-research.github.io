@@ -3,10 +3,13 @@ const grid = document.getElementById("featuredGrid");
 const nextBtn = document.querySelector(".next");
 const prevBtn = document.querySelector(".prev");
 
+// 卡片间距以 CSS 的 gap 为准
+const gap = () => parseFloat(getComputedStyle(grid).columnGap) || 0;
+
 nextBtn.addEventListener("click", () => {
 
     const cardWidth =
-        grid.firstElementChild.offsetWidth + 32;
+        grid.firstElementChild.offsetWidth + gap();
 
     grid.style.transform =
         `translateX(-${cardWidth}px)`;
@@ -33,7 +36,7 @@ nextBtn.addEventListener("click", () => {
 prevBtn.addEventListener("click", () => {
 
     const cardWidth =
-        grid.firstElementChild.offsetWidth + 32;
+        grid.firstElementChild.offsetWidth + gap();
 
     const lastCard =
         grid.lastElementChild;
