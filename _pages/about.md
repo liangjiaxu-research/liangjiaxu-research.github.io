@@ -7,8 +7,11 @@ author_profile: false
 hero_class: home-hero
 
 header:
-  overlay_image: banner-home.jpg
+  overlay_image: banner-home-clean.jpg
   overlay_filter: 0.1
+  hero_title: "Carbon Chemistry"
+  hero_subtitle: "at Extreme Conditions"
+  og_image: og-home.jpg
   caption: "AI-generated conceptual illustration"
 
 ---
