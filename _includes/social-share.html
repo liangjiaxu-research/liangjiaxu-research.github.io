@@ -1,17 +1,32 @@
 {% include base_path %}
+{% assign share_label = site.data.ui-text[site.locale].share_on_label | default: 'Share on' %}
+{% assign share_url = base_path | append: page.url %}
 
 <section class="page__share">
   {% if site.data.ui-text[site.locale].share_on_label %}
     <h4 class="page__share-title">{{ site.data.ui-text[site.locale].share_on_label | default: "Share on" }}</h4>
   {% endif %}
 
-  <a href="https://bsky.app/intent/compose?text={{ base_path }}{{ page.url }}" class="btn btn--bluesky" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Bluesky"><i class="fab fa-bluesky" aria-hidden="true"></i><span> Bluesky</span></a>
+  <a href="https://x.com/intent/post?text={{ base_path }}{{ page.url }}" class="btn btn--x" title="{{ share_label }} X"><i class="fab fa-x-twitter" aria-hidden="true"></i><span> X (formerly Twitter)</span></a>
 
-  <a href="https://www.facebook.com/sharer/sharer.php?u={{ base_path }}{{ page.url }}" class="btn btn--facebook" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Facebook"><i class="fab fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
+  <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ base_path }}{{ page.url }}" class="btn btn--linkedin" title="{{ share_label }} LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
 
-  <a href="https://www.linkedin.com/shareArticle?mini=true&url={{ base_path }}{{ page.url }}" class="btn btn--linkedin" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} LinkedIn"><i class="fab fa-linkedin" aria-hidden="true"></i><span> LinkedIn</span></a>
+  <a href="https://bsky.app/intent/compose?text={{ base_path }}{{ page.url }}" class="btn btn--bluesky" title="{{ share_label }} Bluesky"><i class="fab fa-bluesky" aria-hidden="true"></i><span> Bluesky</span></a>
 
-  <a href="https://www.addtoany.com/add_to/mastodon?linkurl={{  base_path | append: page.url | url_encode }}" class="btn btn--mastodon" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} Mastodon"><i class="fab fa-mastodon" aria-hidden="true"></i><span> Mastodon</span></a>
+  <a href="https://www.facebook.com/sharer/sharer.php?u={{ base_path }}{{ page.url }}" class="btn btn--facebook" title="{{ share_label }} Facebook"><i class="fab fa-facebook" aria-hidden="true"></i><span> Facebook</span></a>
 
-  <a href="https://x.com/intent/post?text={{ base_path }}{{ page.url }}" class="btn btn--x" title="{{ site.data.ui-text[site.locale].share_on_label | default: 'Share on' }} X"><i class="fab fa-x-twitter" aria-hidden="true"></i><span> X (formerly Twitter)</span></a>
+  <a href="https://service.weibo.com/share/share.php?url={{ share_url | url_encode }}&title={{ page.title | strip_html | url_encode }}" class="btn btn--weibo" title="{{ share_label }} 微博"><i class="fab fa-weibo" aria-hidden="true"></i><span> 微博</span></a>
+
+  <button type="button" class="btn btn--wechat js-wechat-share" data-url="{{ share_url }}" title="{{ share_label }} 微信朋友圈"><i class="fab fa-weixin" aria-hidden="true"></i><span> 朋友圈</span></button>
+
+  <dialog class="wechat-share" id="wechatShare" aria-labelledby="wechatShareTitle">
+    <div class="wechat-share__body">
+    <button type="button" class="wechat-share__close js-wechat-close" aria-label="Close">&times;</button>
+    <p class="wechat-share__title" id="wechatShareTitle"><i class="fab fa-weixin" aria-hidden="true"></i> 分享到朋友圈</p>
+    <div class="wechat-share__qr" id="wechatShareQr"></div>
+    <p class="wechat-share__hint">Scan with WeChat, then share to Moments<br>用微信“扫一扫”，打开后分享到朋友圈</p>
+    </div>
+  </dialog>
 </section>
+
+<script src="{{ base_path }}/assets/js/share.js?v={{ site.time | date: '%s' }}" defer></script>

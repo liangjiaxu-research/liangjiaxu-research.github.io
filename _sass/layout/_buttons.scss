@@ -123,7 +123,10 @@
   (google-plus, $google-plus-color),
   (linkedin, $linkedin-color),
   (mastodon, $mastodon-color),
-  (twitter, $twitter-color); 
+  (twitter, $twitter-color),
+  (wechat, $wechat-color),
+  (weibo, $weibo-color),
+  (x, $x-color);
 
   @each $socialnetwork, $color in $social {
     &--#{$socialnetwork} {
@@ -133,6 +136,11 @@
         background-color: mix(#000, $color, 20%);
       }
     }
+  }
+
+  /* X 的品牌色是黑色，悬停时改为变浅 */
+  &--x:hover {
+    background-color: #333;
   }
 
   /* extra large button */
