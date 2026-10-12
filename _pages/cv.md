@@ -88,7 +88,7 @@ B.Eng. in Polymer Science and Engineering
 
 ## Contact
 ---
-Email: <u>j.liang@kristall.uni-frankfurt.de</u> or <u>jliang.research@gmail.com</u>
+Email: <u>jliang.research@gmail.com</u>
 
 {% comment %}  
 
