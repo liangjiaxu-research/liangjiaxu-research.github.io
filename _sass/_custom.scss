@@ -326,19 +326,20 @@ body {
 }
 
 /* 导航栏设置-菜单设置-logo位置 */
-.masthead__menu-item--lg.persist {
-    margin-left: 60px !important;
-}
 .site-logo {
     display: flex;
     align-items: center;
+}
+/* logo 左侧留白放在链接外侧（margin），悬停下划线才会从金刚石左边开始；
+   选择器需比主题的 li:first-child a { margin-left: 0 } 更具体 */
+.greedy-nav .visible-links li:first-child a.site-logo {
+    margin-left: 60px;
 }
 .site-logo img {
     height: 60px;
     width: auto;
     object-fit: cover;
     margin-right: 5px;
-    padding-left: 60px;
 }
 
 /* 导航栏设置-菜单设置-点击效果 */
