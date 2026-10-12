@@ -347,6 +347,12 @@ body {
   font-weight: 700;
   border-bottom: none !important;
 }
+/* 栏目下的文章页里，高亮的导航项可以点击；悬停/点击时保持原来的浅蓝色，只显示下划线 */
+.masthead__menu-item.selected a:hover,
+.masthead__menu-item.selected a:focus,
+.masthead__menu-item.selected a:active {
+  color: #CAEEFB;
+}
 .greedy-nav a:hover {
     color: #CAEEFB;
 }
