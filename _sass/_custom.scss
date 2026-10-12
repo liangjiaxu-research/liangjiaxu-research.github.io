@@ -477,3 +477,101 @@ body {
 .wechat-share__close:hover {
     color: #1c2b3a;
 }
+
+
+/* ==========================================================================
+   夜间模式：主题会把文字变浅，这里同步把背景和自定义的固定颜色改成深色版本
+   （只在 html[data-theme="dark"] 下生效，日间模式不受影响）
+   ========================================================================== */
+html[data-theme="dark"] {
+    --global-bg-color: #0f1a29;
+    --global-text-color: #e3e8ef;
+    --global-text-color-light: #b8c4d2;
+    --global-link-color: #8ec5f5;
+    --global-link-color-hover: #caeefb;
+    --global-link-color-visited: #a9c9ec;
+    --global-border-color: #2f4a6a;
+    --global-dark-border-color: #2f4a6a;
+    --global-fig-caption-color: #9fb3c8;
+}
+html[data-theme="dark"] body {
+    background: var(--global-bg-color);
+}
+
+/* 标题：正文里写死的深蓝标题、出版物标题 */
+html[data-theme="dark"] .page__content [style*="#003366"],
+html[data-theme="dark"] .archive [style*="#003366"] {
+    color: #caeefb !important;
+}
+html[data-theme="dark"] .archive__item-title {
+    color: #caeefb;
+}
+html[data-theme="dark"] .page__content a:hover,
+html[data-theme="dark"] .archive a:hover {
+    color: #caeefb !important;
+}
+
+/* 首页文章卡片 */
+html[data-theme="dark"] .featured-card {
+    background: #16263a;
+    border-color: #2a3d55;
+    box-shadow: 0 1px 3px rgba(0, 0, 0, 0.4);
+}
+html[data-theme="dark"] .featured-card:hover {
+    border-color: #3d5a7d;
+    box-shadow: 0 12px 28px rgba(0, 0, 0, 0.5);
+}
+html[data-theme="dark"] .featured-card::before {
+    background: linear-gradient(90deg, #2f6fa8, #8ec5f5);
+}
+html[data-theme="dark"] .card-media {
+    border-bottom-color: #2a3d55;
+}
+html[data-theme="dark"] .card-badge {
+    background: #1f3a5c;
+    color: #caeefb;
+}
+html[data-theme="dark"] .card-title a {
+    color: #e6eef7;
+}
+html[data-theme="dark"] .card-title a:hover,
+html[data-theme="dark"] .card-actions a {
+    color: #8ec5f5;
+}
+html[data-theme="dark"] .card-actions {
+    border-top-color: #2a3d55;
+}
+html[data-theme="dark"] .card-actions .card-doi {
+    color: #8fa3b8;
+}
+
+/* 轮播按钮与圆点 */
+html[data-theme="dark"] .carousel-btn {
+    background: #16263a;
+    border-color: #2f4a6a;
+    color: #caeefb;
+    box-shadow: 0 2px 8px rgba(0, 0, 0, 0.4);
+}
+html[data-theme="dark"] .carousel-btn:hover {
+    background: #2f6fa8;
+    border-color: #2f6fa8;
+    color: #fff;
+}
+html[data-theme="dark"] .carousel-btn:focus-visible,
+html[data-theme="dark"] .carousel-dot:focus-visible {
+    outline-color: #8ec5f5;
+}
+html[data-theme="dark"] .carousel-dot {
+    background: #3a516d;
+}
+html[data-theme="dark"] .carousel-dot:hover {
+    background: #5d7a9c;
+}
+html[data-theme="dark"] .carousel-dot.active {
+    background: #caeefb;
+}
+
+/* 分享按钮：X 是黑色，深色背景上加一圈细边 */
+html[data-theme="dark"] .btn--x {
+    box-shadow: inset 0 0 0 1px #3a4f6a;
+}
