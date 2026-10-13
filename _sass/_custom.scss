@@ -463,12 +463,74 @@ body {
 }
 
 
-/* 页脚设置 */
+/* 页脚设置：联系图标、单位、版权与更新日期；高度随内容自适应，日间/夜间相同 */
 .page__footer {
     position: static !important;
     background-color: #003366;
-    height: 60px;
     margin-top: 0em;
+}
+.page__footer footer {
+    margin-top: 0;
+    padding: 0;
+}
+.site-footer {
+    padding: 26px 16px 22px;
+    text-align: center;
+    color: #9fb3c8;
+}
+.site-footer a {
+    color: #caeefb;
+    text-decoration: none;
+}
+.site-footer a:hover {
+    text-decoration: underline;
+}
+.site-footer__links {
+    display: flex;
+    justify-content: center;
+    gap: 14px;
+    margin: 0 0 14px;
+    padding: 0;
+    list-style: none;
+}
+.site-footer__links li {
+    margin: 0;
+}
+.site-footer__links a {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    width: 38px;
+    height: 38px;
+    border: 1px solid rgba(202, 238, 251, 0.35);
+    border-radius: 50%;
+    font-size: 17px;
+    transition: background 0.2s ease, color 0.2s ease, border-color 0.2s ease;
+}
+.site-footer .site-footer__links i {
+    color: inherit;   /* 主题给页脚图标单独设了颜色，日间模式下会变暗 */
+}
+.site-footer__links a:hover {
+    background: #caeefb;
+    border-color: #caeefb;
+    color: #003366;
+    text-decoration: none;
+}
+.site-footer__affil {
+    margin: 0 0 6px;
+    font-size: 14px;
+    color: #e3ecf5;
+}
+.site-footer__meta {
+    margin: 0;
+    font-size: 12.5px;
+}
+.site-footer__item {
+    white-space: nowrap;   /* 每一项保持完整，只在项与项之间换行 */
+}
+.site-footer__dot {
+    margin: 0 4px;
+    opacity: 0.6;
 }
 
 /* CV页表格 */

@@ -1,27 +1,19 @@
 {% include base_path %}
 
-{% comment %}
-{% if site.author.github or site.author.bitbucket or site.atom_feed.hide != true %}
-<div class="page__footer-follow">
-  <ul class="social-icons">
-    {% if site.data.ui-text[site.locale].follow_label %}
-      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
+<div class="site-footer">
+  <ul class="site-footer__links">
+    <li><a href="mailto:jliang.research@gmail.com" aria-label="Email" title="Email"><i class="fas fa-envelope" aria-hidden="true"></i></a></li>
+    {% if site.author.googlescholar %}
+    <li><a href="{{ site.author.googlescholar }}" target="_blank" rel="noopener" aria-label="Google Scholar" title="Google Scholar"><i class="ai ai-google-scholar" aria-hidden="true"></i></a></li>
     {% endif %}
-    {% if site.author.github %}
-      <li><a href="https://github.com/{{ site.author.github }}"><i class="fab fa-github" aria-hidden="true"></i> GitHub</a></li>
-    {% endif %}
-    {% if site.author.bitbucket %}
-      <li><a href="https://bitbucket.org/{{ site.author.bitbucket }}"><i class="fab fa-bitbucket" aria-hidden="true"></i> Bitbucket</a></li>
-    {% endif %}
-    {% if site.atom_feed.hide != true %}
-    <li><a href="{% if site.atom_feed.path %}{{ site.atom_feed.path }}{% else %}{{ base_path }}/feed.xml{% endif %}"><i class="fa fa-fw fa-rss-square" aria-hidden="true"></i> {{ site.data.ui-text[site.locale].feed_label | default: "Feed" }}</a></li>
+    {% if site.author.twitter %}
+    <li><a href="https://x.com/{{ site.author.twitter | remove: '@' }}" target="_blank" rel="noopener" aria-label="X" title="X"><i class="fab fa-x-twitter" aria-hidden="true"></i></a></li>
     {% endif %}
   </ul>
+  <p class="site-footer__affil">
+    <span class="site-footer__item"><a href="https://www.geo.uni-frankfurt.de/59244748/AG_Winkler" target="_blank" rel="noopener">AG Winkler</a></span> <span class="site-footer__dot">·</span> <span class="site-footer__item">Institute of Geosciences</span> <span class="site-footer__dot">·</span> <span class="site-footer__item">Goethe University Frankfurt</span>
+  </p>
+  <p class="site-footer__meta">
+    <span class="site-footer__item">&copy; {{ site.time | date: '%Y' }} {{ site.author.name }}</span> <span class="site-footer__dot">·</span> <span class="site-footer__item">Last updated {{ site.time | date: '%b %-d, %Y' }}</span> <span class="site-footer__dot">·</span> <span class="site-footer__item">Built with <a href="https://jekyllrb.com" target="_blank" rel="nofollow noopener">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io" target="_blank" rel="noopener">AcademicPages</a></span>
+  </p>
 </div>
-{% endif %}
-
-<div class="page__footer-copyright">
-  &copy; {{ site.time | date: '%Y' }} {{ site.name | default: site.title }}, {{ site.data.ui-text[site.locale].powered_by | default: "Powered by" }} <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a> &amp; <a href="https://github.com/academicpages/academicpages.github.io">AcademicPages</a>, a fork of <a href="https://mademistakes.com/work/minimal-mistakes-jekyll-theme/" rel="nofollow">Minimal Mistakes</a>.<br />
-  Site last updated {{ "now" | date: '%Y-%m-%d' }}, <a href="/sitemap/" style="text-transform: uppercase;">{{ site.data.ui-text[site.locale].site_map | default: "Sitemap" }}</a>
-</div>
-{% endcomment %}
