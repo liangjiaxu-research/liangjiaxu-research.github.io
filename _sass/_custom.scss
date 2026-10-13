@@ -365,6 +365,41 @@ body {
     transition: 0.2s ease-in-out;
 }
 
+/* 手机端：折叠菜单按钮与下拉菜单，跟随深蓝导航栏配色（日间/夜间相同） */
+.greedy-nav button {
+    background-color: #003366;
+}
+.greedy-nav .navicon,
+.greedy-nav .navicon:before,
+.greedy-nav .navicon:after {
+    background: #F2F2F2;
+}
+.greedy-nav button.close .navicon {
+    background: transparent;
+}
+.greedy-nav .hidden-links {
+    background: #003366;
+    border-color: #2f5a87;
+    box-shadow: 0 8px 24px rgba(0, 10, 26, 0.45);
+}
+.greedy-nav .hidden-links:before {
+    border-color: #2f5a87 transparent;
+}
+.greedy-nav .hidden-links:after {
+    border-color: #003366 transparent;
+}
+.greedy-nav .hidden-links li {
+    border-bottom-color: rgba(202, 238, 251, 0.18);
+}
+.greedy-nav .hidden-links a {
+    color: #F2F2F2;
+}
+.greedy-nav .hidden-links a:hover,
+.greedy-nav .hidden-links .selected a {
+    color: #CAEEFB;
+    background: rgba(202, 238, 251, 0.08);
+}
+
 /* 链接点击效果 */
 .page__content a {
     display: inline-block;
