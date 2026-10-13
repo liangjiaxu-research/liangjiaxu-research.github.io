@@ -342,6 +342,50 @@ body {
     margin-right: 5px;
 }
 
+/* 手机端标题：姓名与 "Academic Website" 分两行，缩小 logo 与左侧留白，导航栏更紧凑 */
+@media (max-width: 600px) {
+    .masthead {
+        min-height: 76px !important;
+    }
+    body {
+        padding-top: 76px;
+    }
+    .greedy-nav .visible-links li:first-child a.site-logo {
+        margin-left: 12px;
+        white-space: nowrap;   /* logo 与两行标题保持在同一行 */
+    }
+    .site-logo img {
+        height: 46px;
+        margin-right: 10px;
+    }
+    .site-logo img {
+        vertical-align: middle;
+    }
+    .site-title {
+        display: inline-flex;
+        flex-direction: column;
+        vertical-align: middle;
+        line-height: 1.25;
+    }
+    .site-title__sep {
+        display: none;
+    }
+    /* 给右侧的菜单按钮留出位置，避免日夜切换图标与按钮重叠 */
+    .greedy-nav .visible-links {
+        margin-right: 52px;
+    }
+    .site-title__name {
+        font-size: 17px;
+        font-weight: 700;
+        letter-spacing: 0.02em;
+    }
+    .site-title__sub {
+        font-size: 13px;
+        font-weight: 500;
+        color: #CAEEFB;
+    }
+}
+
 /* 导航栏设置-菜单设置-点击效果 */
 .masthead__menu-item.selected a {
   color: #CAEEFB;

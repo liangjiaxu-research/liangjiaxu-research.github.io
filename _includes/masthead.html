@@ -8,7 +8,12 @@
           <li class="masthead__menu-item masthead__menu-item--lg persist {% if page.url == '/' or page.url == '/index.html' %}selected current{% endif %}">
             <a href="{{ base_path }}/" class="site-logo">
               <img src="{{ base_path }}/images/site-logo.png?v=1" alt="Logo">
+              {% assign title_parts = site.title | split: ' | ' %}
+              {% if title_parts.size > 1 %}
+              <span class="site-title"><span class="site-title__name">{{ title_parts[0] }}</span><span class="site-title__sep"> | </span><span class="site-title__sub">{{ title_parts[1] }}</span></span>
+              {% else %}
               {{ site.title }}
+              {% endif %}
             </a>
           </li>
           {% for link in site.data.navigation.main %}
