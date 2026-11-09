@@ -40,11 +40,11 @@ My research focuses on Carbon Chemistry at Extreme Conditions.
 
     <div class="featured-card">
       <a href="https://doi.org/10.1038/s41586-026-10669-3" target="_blank" rel="noopener" class="card-media">
-        <img src="/images/Nature2026.jpg" alt="A Molecular Route from Nanographene to Nanodiamonds" loading="lazy">
+        <img src="/images/Nature2026.jpg" alt="A Molecular Path from Nanographene to Nanodiamonds" loading="lazy">
       </a>
       <div class="card-body">
         <span class="card-badge">Nature · 2026</span>
-        <h3 class="card-title"><a href="/news/bottom-up-synthesis-of-molecular-nanodiamond-from-nanographene" target="_blank" rel="noopener">A Molecular Route from Nanographene to Nanodiamonds</a></h3>
+        <h3 class="card-title"><a href="/news/bottom-up-synthesis-of-molecular-nanodiamond-from-nanographene" target="_blank" rel="noopener">A Molecular Path from Nanographene to Nanodiamonds</a></h3>
         <div class="card-actions">
           <a href="/news/bottom-up-synthesis-of-molecular-nanodiamond-from-nanographene" target="_blank" rel="noopener">Read story →</a>
           <a href="https://doi.org/10.1038/s41586-026-10669-3" target="_blank" rel="noopener" class="card-doi">DOI ↗</a>

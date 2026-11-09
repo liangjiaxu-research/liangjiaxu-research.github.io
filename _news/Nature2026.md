@@ -1,5 +1,5 @@
 ---
-title: "A Molecular Route from Nanographene to Nanodiamonds"
+title: "A Molecular Path from Nanographene to Nanodiamonds"
 collection: news
 type: "Featured Articles"
 permalink: /news/bottom-up-synthesis-of-molecular-nanodiamond-from-nanographene
